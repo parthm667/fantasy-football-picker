@@ -1,0 +1,15 @@
+{
+ "H1": {
+  "pass": true,
+  "r": 0.122,
+  "slope": 0.134,
+  "p": 0.01712,
+  "multLo": 0.898,
+  "multHi": 1.183,
+  "loThresh": 1,
+  "hiThresh": 4
+ },
+ "H2": {
+  "pass": false
+ }
+}

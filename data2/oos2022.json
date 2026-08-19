@@ -1,0 +1,6831 @@
+{
+ "adp2022": [
+  {
+   "name": "Jonathan Taylor",
+   "pos": "RB",
+   "team": "IND",
+   "adp": 1.3
+  },
+  {
+   "name": "Christian McCaffrey",
+   "pos": "RB",
+   "team": "SF",
+   "adp": 2.4
+  },
+  {
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "team": "LAC",
+   "adp": 2.7
+  },
+  {
+   "name": "Derrick Henry",
+   "pos": "RB",
+   "team": "TEN",
+   "adp": 4.3
+  },
+  {
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "team": "MIN",
+   "adp": 4.6
+  },
+  {
+   "name": "Cooper Kupp",
+   "pos": "WR",
+   "team": "LAR",
+   "adp": 5.7
+  },
+  {
+   "name": "Najee Harris",
+   "pos": "RB",
+   "team": "PIT",
+   "adp": 7.1
+  },
+  {
+   "name": "Dalvin Cook",
+   "pos": "RB",
+   "team": "MIN",
+   "adp": 7.5
+  },
+  {
+   "name": "Ja'Marr Chase",
+   "pos": "WR",
+   "team": "CIN",
+   "adp": 8.7
+  },
+  {
+   "name": "Joe Mixon",
+   "pos": "RB",
+   "team": "CIN",
+   "adp": 10.1
+  },
+  {
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "team": "NO",
+   "adp": 10.9
+  },
+  {
+   "name": "Davante Adams",
+   "pos": "WR",
+   "team": "LV",
+   "adp": 12.0
+  },
+  {
+   "name": "D'Andre Swift",
+   "pos": "RB",
+   "team": "DET",
+   "adp": 12.8
+  },
+  {
+   "name": "Stefon Diggs",
+   "pos": "WR",
+   "team": "BUF",
+   "adp": 13.6
+  },
+  {
+   "name": "Aaron Jones Sr.",
+   "pos": "RB",
+   "team": "GB",
+   "adp": 14.9
+  },
+  {
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "team": "NYG",
+   "adp": 15.5
+  },
+  {
+   "name": "Travis Kelce",
+   "pos": "TE",
+   "team": "KC",
+   "adp": 16.5
+  },
+  {
+   "name": "CeeDee Lamb",
+   "pos": "WR",
+   "team": "DAL",
+   "adp": 17.5
+  },
+  {
+   "name": "Nick Chubb",
+   "pos": "RB",
+   "team": "CLE",
+   "adp": 18.8
+  },
+  {
+   "name": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "team": "SF",
+   "adp": 19.6
+  },
+  {
+   "name": "Javonte Williams",
+   "pos": "RB",
+   "team": "DEN",
+   "adp": 20.2
+  },
+  {
+   "name": "Josh Allen",
+   "pos": "QB",
+   "team": "BUF",
+   "adp": 20.4
+  },
+  {
+   "name": "Leonard Fournette",
+   "pos": "RB",
+   "team": "TB",
+   "adp": 21.9
+  },
+  {
+   "name": "Tyreek Hill",
+   "pos": "WR",
+   "team": "MIA",
+   "adp": 22.7
+  },
+  {
+   "name": "Michael Pittman Jr.",
+   "pos": "WR",
+   "team": "IND",
+   "adp": 24.9
+  },
+  {
+   "name": "Mark Andrews",
+   "pos": "TE",
+   "team": "BAL",
+   "adp": 25.5
+  },
+  {
+   "name": "Mike Evans",
+   "pos": "WR",
+   "team": "TB",
+   "adp": 26.5
+  },
+  {
+   "name": "Ezekiel Elliott",
+   "pos": "RB",
+   "team": "DAL",
+   "adp": 27.7
+  },
+  {
+   "name": "James Conner",
+   "pos": "RB",
+   "team": "ARI",
+   "adp": 28.4
+  },
+  {
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "team": "LAC",
+   "adp": 29.5
+  },
+  {
+   "name": "A.J. Brown",
+   "pos": "WR",
+   "team": "PHI",
+   "adp": 30.4
+  },
+  {
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "team": "ATL",
+   "adp": 31.2
+  },
+  {
+   "name": "Tee Higgins",
+   "pos": "WR",
+   "team": "CIN",
+   "adp": 32.5
+  },
+  {
+   "name": "Cam Akers",
+   "pos": "RB",
+   "team": "LAR",
+   "adp": 33.1
+  },
+  {
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "team": "LAC",
+   "adp": 33.2
+  },
+  {
+   "name": "Travis Etienne Jr.",
+   "pos": "RB",
+   "team": "JAX",
+   "adp": 33.6
+  },
+  {
+   "name": "DJ Moore",
+   "pos": "WR",
+   "team": "CAR",
+   "adp": 35.9
+  },
+  {
+   "name": "Terry McLaurin",
+   "pos": "WR",
+   "team": "WAS",
+   "adp": 38.0
+  },
+  {
+   "name": "Patrick Mahomes",
+   "pos": "QB",
+   "team": "KC",
+   "adp": 38.3
+  },
+  {
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "team": "BAL",
+   "adp": 38.8
+  },
+  {
+   "name": "David Montgomery",
+   "pos": "RB",
+   "team": "CHI",
+   "adp": 39.3
+  },
+  {
+   "name": "Mike Williams",
+   "pos": "WR",
+   "team": "LAC",
+   "adp": 39.6
+  },
+  {
+   "name": "Elijah Mitchell",
+   "pos": "RB",
+   "team": "SF",
+   "adp": 42.4
+  },
+  {
+   "name": "Diontae Johnson",
+   "pos": "WR",
+   "team": "PIT",
+   "adp": 43.4
+  },
+  {
+   "name": "George Kittle",
+   "pos": "TE",
+   "team": "SF",
+   "adp": 44.2
+  },
+  {
+   "name": "Breece Hall",
+   "pos": "RB",
+   "team": "NYJ",
+   "adp": 44.4
+  },
+  {
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "team": "DEN",
+   "adp": 45.3
+  },
+  {
+   "name": "Joe Burrow",
+   "pos": "QB",
+   "team": "CIN",
+   "adp": 46.1
+  },
+  {
+   "name": "Josh Jacobs",
+   "pos": "RB",
+   "team": "LV",
+   "adp": 46.8
+  },
+  {
+   "name": "Jaylen Waddle",
+   "pos": "WR",
+   "team": "MIA",
+   "adp": 47.7
+  },
+  {
+   "name": "AJ Dillon",
+   "pos": "RB",
+   "team": "GB",
+   "adp": 48.7
+  },
+  {
+   "name": "Darren Waller",
+   "pos": "TE",
+   "team": "LV",
+   "adp": 50.4
+  },
+  {
+   "name": "Lamar Jackson",
+   "pos": "QB",
+   "team": "BAL",
+   "adp": 51.3
+  },
+  {
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "team": "SEA",
+   "adp": 51.4
+  },
+  {
+   "name": "Michael Thomas",
+   "pos": "WR",
+   "team": "NO",
+   "adp": 52.3
+  },
+  {
+   "name": "Allen Robinson II",
+   "pos": "WR",
+   "team": "LAR",
+   "adp": 53.5
+  },
+  {
+   "name": "Clyde Edwards-Helaire",
+   "pos": "RB",
+   "team": "KC",
+   "adp": 54.3
+  },
+  {
+   "name": "Jalen Hurts",
+   "pos": "QB",
+   "team": "PHI",
+   "adp": 56.3
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "team": "TB",
+   "adp": 56.5
+  },
+  {
+   "name": "Brandin Cooks",
+   "pos": "WR",
+   "team": "HOU",
+   "adp": 56.7
+  },
+  {
+   "name": "Damien Harris",
+   "pos": "RB",
+   "team": "NE",
+   "adp": 59.8
+  },
+  {
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "team": "ARI",
+   "adp": 61.6
+  },
+  {
+   "name": "Jerry Jeudy",
+   "pos": "WR",
+   "team": "DEN",
+   "adp": 61.7
+  },
+  {
+   "name": "Miles Sanders",
+   "pos": "RB",
+   "team": "PHI",
+   "adp": 61.7
+  },
+  {
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "team": "DAL",
+   "adp": 62.6
+  },
+  {
+   "name": "Gabe Davis",
+   "pos": "WR",
+   "team": "BUF",
+   "adp": 62.9
+  },
+  {
+   "name": "Rashaad Penny",
+   "pos": "RB",
+   "team": "SEA",
+   "adp": 63.3
+  },
+  {
+   "name": "Adam Thielen",
+   "pos": "WR",
+   "team": "MIN",
+   "adp": 63.8
+  },
+  {
+   "name": "Darnell Mooney",
+   "pos": "WR",
+   "team": "CHI",
+   "adp": 68.1
+  },
+  {
+   "name": "Hollywood Brown",
+   "pos": "WR",
+   "team": "ARI",
+   "adp": 68.7
+  },
+  {
+   "name": "Kareem Hunt",
+   "pos": "RB",
+   "team": "CLE",
+   "adp": 68.9
+  },
+  {
+   "name": "Chase Edmonds",
+   "pos": "RB",
+   "team": "DEN",
+   "adp": 69.6
+  },
+  {
+   "name": "Dameon Pierce",
+   "pos": "RB",
+   "team": "HOU",
+   "adp": 70.5
+  },
+  {
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "team": "DAL",
+   "adp": 70.8
+  },
+  {
+   "name": "Hunter Renfrow",
+   "pos": "WR",
+   "team": "LV",
+   "adp": 71.2
+  },
+  {
+   "name": "Russell Wilson",
+   "pos": "QB",
+   "team": "DEN",
+   "adp": 72.5
+  },
+  {
+   "name": "Amon-Ra St. Brown",
+   "pos": "WR",
+   "team": "DET",
+   "adp": 73.4
+  },
+  {
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "team": "BUF",
+   "adp": 74.4
+  },
+  {
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "team": "PHI",
+   "adp": 75.2
+  },
+  {
+   "name": "JuJu Smith-Schuster",
+   "pos": "WR",
+   "team": "KC",
+   "adp": 75.9
+  },
+  {
+   "name": "Rhamondre Stevenson",
+   "pos": "RB",
+   "team": "NE",
+   "adp": 76.0
+  },
+  {
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "team": "GB",
+   "adp": 80.2
+  },
+  {
+   "name": "Rashod Bateman",
+   "pos": "WR",
+   "team": "BAL",
+   "adp": 81.0
+  },
+  {
+   "name": "Dak Prescott",
+   "pos": "QB",
+   "team": "DAL",
+   "adp": 83.6
+  },
+  {
+   "name": "Amari Cooper",
+   "pos": "WR",
+   "team": "CLE",
+   "adp": 84.2
+  },
+  {
+   "name": "Melvin Gordon III",
+   "pos": "RB",
+   "team": "KC",
+   "adp": 85.4
+  },
+  {
+   "name": "DeVonta Smith",
+   "pos": "WR",
+   "team": "PHI",
+   "adp": 86.6
+  },
+  {
+   "name": "Tom Brady",
+   "pos": "QB",
+   "team": "TB",
+   "adp": 86.8
+  },
+  {
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "team": "NYJ",
+   "adp": 87.9
+  },
+  {
+   "name": "Zach Ertz",
+   "pos": "TE",
+   "team": "ARI",
+   "adp": 89.0
+  },
+  {
+   "name": "Allen Lazard",
+   "pos": "WR",
+   "team": "GB",
+   "adp": 89.5
+  },
+  {
+   "name": "DeAndre Hopkins",
+   "pos": "WR",
+   "team": "ARI",
+   "adp": 90.0
+  },
+  {
+   "name": "Brandon Aiyuk",
+   "pos": "WR",
+   "team": "SF",
+   "adp": 90.0
+  },
+  {
+   "name": "Matthew Stafford",
+   "pos": "QB",
+   "team": "LAR",
+   "adp": 90.3
+  },
+  {
+   "name": "Cordarrelle Patterson",
+   "pos": "RB",
+   "team": "ATL",
+   "adp": 91.4
+  },
+  {
+   "name": "James Cook III",
+   "pos": "RB",
+   "team": "BUF",
+   "adp": 92.0
+  },
+  {
+   "name": "Kenneth Walker",
+   "pos": "RB",
+   "team": "SEA",
+   "adp": 92.9
+  },
+  {
+   "name": "Nyheim Hines",
+   "pos": "RB",
+   "team": "BUF",
+   "adp": 93.9
+  },
+  {
+   "name": "Christian Kirk",
+   "pos": "WR",
+   "team": "JAX",
+   "adp": 96.2
+  },
+  {
+   "name": "Trey Lance",
+   "pos": "QB",
+   "team": "SF",
+   "adp": 97.7
+  },
+  {
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "team": "PIT",
+   "adp": 100.0
+  },
+  {
+   "name": "James Robinson",
+   "pos": "RB",
+   "team": "NYJ",
+   "adp": 101.5
+  },
+  {
+   "name": "Raheem Mostert",
+   "pos": "RB",
+   "team": "MIA",
+   "adp": 101.9
+  },
+  {
+   "name": "Drake London",
+   "pos": "WR",
+   "team": "ATL",
+   "adp": 102.2
+  },
+  {
+   "name": "Robert Woods",
+   "pos": "WR",
+   "team": "TEN",
+   "adp": 102.5
+  },
+  {
+   "name": "Kadarius Toney",
+   "pos": "WR",
+   "team": "KC",
+   "adp": 102.7
+  },
+  {
+   "name": "Derek Carr",
+   "pos": "QB",
+   "team": "LV",
+   "adp": 103.1
+  },
+  {
+   "name": "Cole Kmet",
+   "pos": "TE",
+   "team": "CHI",
+   "adp": 103.6
+  },
+  {
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "team": "PHI",
+   "adp": 105.8
+  },
+  {
+   "name": "Tyler Allgeier",
+   "pos": "RB",
+   "team": "ATL",
+   "adp": 107.6
+  },
+  {
+   "name": "Kirk Cousins",
+   "pos": "QB",
+   "team": "MIN",
+   "adp": 108.6
+  },
+  {
+   "name": "J.D. McKissic",
+   "pos": "RB",
+   "team": "WAS",
+   "adp": 110.2
+  },
+  {
+   "name": "Chris Olave",
+   "pos": "WR",
+   "team": "NO",
+   "adp": 110.4
+  },
+  {
+   "name": "Dawson Knox",
+   "pos": "TE",
+   "team": "BUF",
+   "adp": 111.5
+  },
+  {
+   "name": "Darrell Henderson Jr.",
+   "pos": "RB",
+   "team": "JAX",
+   "adp": 111.9
+  },
+  {
+   "name": "Tyler Lockett",
+   "pos": "WR",
+   "team": "SEA",
+   "adp": 112.5
+  },
+  {
+   "name": "Brian Robinson",
+   "pos": "RB",
+   "team": "WAS",
+   "adp": 112.7
+  },
+  {
+   "name": "Michael Carter",
+   "pos": "RB",
+   "team": "NYJ",
+   "adp": 113.3
+  },
+  {
+   "name": "Antonio Gibson",
+   "pos": "RB",
+   "team": "WAS",
+   "adp": 114.7
+  },
+  {
+   "name": "Isiah Pacheco",
+   "pos": "RB",
+   "team": "KC",
+   "adp": 118.0
+  },
+  {
+   "name": "Skyy Moore",
+   "pos": "WR",
+   "team": "KC",
+   "adp": 118.1
+  },
+  {
+   "name": "Michael Gallup",
+   "pos": "WR",
+   "team": "DAL",
+   "adp": 118.2
+  },
+  {
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "team": "MIN",
+   "adp": 120.2
+  },
+  {
+   "name": "Julio Jones",
+   "pos": "WR",
+   "team": "TB",
+   "adp": 120.9
+  },
+  {
+   "name": "Tua Tagovailoa",
+   "pos": "QB",
+   "team": "MIA",
+   "adp": 121.2
+  },
+  {
+   "name": "Jamaal Williams",
+   "pos": "RB",
+   "team": "DET",
+   "adp": 121.7
+  },
+  {
+   "name": "Tyler Boyd",
+   "pos": "WR",
+   "team": "CIN",
+   "adp": 123.0
+  },
+  {
+   "name": "Rachaad White",
+   "pos": "RB",
+   "team": "TB",
+   "adp": 123.3
+  },
+  {
+   "name": "George Pickens",
+   "pos": "WR",
+   "team": "PIT",
+   "adp": 123.6
+  },
+  {
+   "name": "Alexander Mattison",
+   "pos": "RB",
+   "team": "MIN",
+   "adp": 128.9
+  },
+  {
+   "name": "Marquez Valdes-Scantling",
+   "pos": "WR",
+   "team": "KC",
+   "adp": 129.0
+  },
+  {
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "team": "TEN",
+   "adp": 129.3
+  },
+  {
+   "name": "Zamir White",
+   "pos": "RB",
+   "team": "LV",
+   "adp": 130.5
+  },
+  {
+   "name": "Matt Ryan",
+   "pos": "QB",
+   "team": "IND",
+   "adp": 132.9
+  },
+  {
+   "name": "Chase Claypool",
+   "pos": "WR",
+   "team": "CHI",
+   "adp": 133.7
+  },
+  {
+   "name": "Romeo Doubs",
+   "pos": "WR",
+   "team": "GB",
+   "adp": 134.1
+  },
+  {
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "team": "NE",
+   "adp": 134.1
+  },
+  {
+   "name": "DeVante Parker",
+   "pos": "WR",
+   "team": "NE",
+   "adp": 134.9
+  },
+  {
+   "name": "Justin Fields",
+   "pos": "QB",
+   "team": "CHI",
+   "adp": 138.0
+  },
+  {
+   "name": "Rondale Moore",
+   "pos": "WR",
+   "team": "ARI",
+   "adp": 142.5
+  },
+  {
+   "name": "Trevor Lawrence",
+   "pos": "QB",
+   "team": "JAX",
+   "adp": 142.9
+  },
+  {
+   "name": "Irv Smith Jr.",
+   "pos": "TE",
+   "team": "MIN",
+   "adp": 146.0
+  },
+  {
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "team": "GB",
+   "adp": 147.9
+  },
+  {
+   "name": "Jameis Winston",
+   "pos": "QB",
+   "team": "NO",
+   "adp": 150.1
+  },
+  {
+   "name": "Isaiah McKenzie",
+   "pos": "WR",
+   "team": "BUF",
+   "adp": 152.6
+  },
+  {
+   "name": "Nico Collins",
+   "pos": "WR",
+   "team": "HOU",
+   "adp": 153.8
+  }
+ ],
+ "proj2022": [
+  {
+   "name": "Josh Allen",
+   "pos": "QB",
+   "proj": 416.1
+  },
+  {
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "proj": 372.3
+  },
+  {
+   "name": "Patrick Mahomes",
+   "pos": "QB",
+   "proj": 372.2
+  },
+  {
+   "name": "Tom Brady",
+   "pos": "QB",
+   "proj": 356.2
+  },
+  {
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "proj": 350.7
+  },
+  {
+   "name": "Dak Prescott",
+   "pos": "QB",
+   "proj": 346.5
+  },
+  {
+   "name": "Jalen Hurts",
+   "pos": "QB",
+   "proj": 340.3
+  },
+  {
+   "name": "Lamar Jackson",
+   "pos": "QB",
+   "proj": 333.4
+  },
+  {
+   "name": "Joe Burrow",
+   "pos": "QB",
+   "proj": 321.7
+  },
+  {
+   "name": "Matthew Stafford",
+   "pos": "QB",
+   "proj": 318.1
+  },
+  {
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "proj": 316.5
+  },
+  {
+   "name": "Kirk Cousins",
+   "pos": "QB",
+   "proj": 315.9
+  },
+  {
+   "name": "Russell Wilson",
+   "pos": "QB",
+   "proj": 314.5
+  },
+  {
+   "name": "Trey Lance",
+   "pos": "QB",
+   "proj": 303.7
+  },
+  {
+   "name": "Derek Carr",
+   "pos": "QB",
+   "proj": 296.9
+  },
+  {
+   "name": "Ryan Tannehill",
+   "pos": "QB",
+   "proj": 289.4
+  },
+  {
+   "name": "Justin Fields",
+   "pos": "QB",
+   "proj": 286.1
+  },
+  {
+   "name": "Trevor Lawrence",
+   "pos": "QB",
+   "proj": 283.2
+  },
+  {
+   "name": "Tua Tagovailoa",
+   "pos": "QB",
+   "proj": 280.4
+  },
+  {
+   "name": "Zach Wilson",
+   "pos": "QB",
+   "proj": 271.6
+  },
+  {
+   "name": "Matt Ryan",
+   "pos": "QB",
+   "proj": 263.6
+  },
+  {
+   "name": "Jared Goff",
+   "pos": "QB",
+   "proj": 261.9
+  },
+  {
+   "name": "Mac Jones",
+   "pos": "QB",
+   "proj": 254.0
+  },
+  {
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "proj": 253.2
+  },
+  {
+   "name": "Daniel Jones",
+   "pos": "QB",
+   "proj": 252.7
+  },
+  {
+   "name": "Davis Mills",
+   "pos": "QB",
+   "proj": 244.5
+  },
+  {
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "proj": 242.5
+  },
+  {
+   "name": "Jameis Winston",
+   "pos": "QB",
+   "proj": 195.7
+  },
+  {
+   "name": "Marcus Mariota",
+   "pos": "QB",
+   "proj": 180.4
+  },
+  {
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "proj": 167.5
+  },
+  {
+   "name": "Geno Smith",
+   "pos": "QB",
+   "proj": 156.3
+  },
+  {
+   "name": "Kenny Pickett",
+   "pos": "QB",
+   "proj": 155.9
+  },
+  {
+   "name": "Jonathan Taylor",
+   "pos": "RB",
+   "proj": 323.9
+  },
+  {
+   "name": "Christian McCaffrey",
+   "pos": "RB",
+   "proj": 321.1
+  },
+  {
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "proj": 307.7
+  },
+  {
+   "name": "Derrick Henry",
+   "pos": "RB",
+   "proj": 267.8
+  },
+  {
+   "name": "Najee Harris",
+   "pos": "RB",
+   "proj": 266.5
+  },
+  {
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "proj": 264.9
+  },
+  {
+   "name": "Dalvin Cook",
+   "pos": "RB",
+   "proj": 252.9
+  },
+  {
+   "name": "Joe Mixon",
+   "pos": "RB",
+   "proj": 250.9
+  },
+  {
+   "name": "Leonard Fournette",
+   "pos": "RB",
+   "proj": 256.7
+  },
+  {
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "proj": 249.0
+  },
+  {
+   "name": "James Conner",
+   "pos": "RB",
+   "proj": 241.2
+  },
+  {
+   "name": "D'Andre Swift",
+   "pos": "RB",
+   "proj": 245.0
+  },
+  {
+   "name": "Javonte Williams",
+   "pos": "RB",
+   "proj": 232.0
+  },
+  {
+   "name": "Aaron Jones",
+   "pos": "RB",
+   "proj": 240.9
+  },
+  {
+   "name": "Nick Chubb",
+   "pos": "RB",
+   "proj": 219.0
+  },
+  {
+   "name": "Ezekiel Elliott",
+   "pos": "RB",
+   "proj": 226.7
+  },
+  {
+   "name": "David Montgomery",
+   "pos": "RB",
+   "proj": 224.5
+  },
+  {
+   "name": "Elijah Mitchell",
+   "pos": "RB",
+   "proj": 204.9
+  },
+  {
+   "name": "Cam Akers",
+   "pos": "RB",
+   "proj": 208.1
+  },
+  {
+   "name": "Breece Hall",
+   "pos": "RB",
+   "proj": 210.0
+  },
+  {
+   "name": "Cordarrelle Patterson",
+   "pos": "RB",
+   "proj": 202.3
+  },
+  {
+   "name": "Damien Harris",
+   "pos": "RB",
+   "proj": 185.8
+  },
+  {
+   "name": "Josh Jacobs",
+   "pos": "RB",
+   "proj": 196.2
+  },
+  {
+   "name": "Travis Etienne",
+   "pos": "RB",
+   "proj": 200.7
+  },
+  {
+   "name": "Dameon Pierce",
+   "pos": "RB",
+   "proj": 190.9
+  },
+  {
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "proj": 186.6
+  },
+  {
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "proj": 192.0
+  },
+  {
+   "name": "Miles Sanders",
+   "pos": "RB",
+   "proj": 182.8
+  },
+  {
+   "name": "AJ Dillon",
+   "pos": "RB",
+   "proj": 182.3
+  },
+  {
+   "name": "Chase Edmonds",
+   "pos": "RB",
+   "proj": 189.1
+  },
+  {
+   "name": "Clyde Edwards-Helaire",
+   "pos": "RB",
+   "proj": 181.1
+  },
+  {
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "proj": 181.1
+  },
+  {
+   "name": "Rhamondre Stevenson",
+   "pos": "RB",
+   "proj": 177.5
+  },
+  {
+   "name": "Antonio Gibson",
+   "pos": "RB",
+   "proj": 171.5
+  },
+  {
+   "name": "Kareem Hunt",
+   "pos": "RB",
+   "proj": 173.5
+  },
+  {
+   "name": "Melvin Gordon",
+   "pos": "RB",
+   "proj": 154.0
+  },
+  {
+   "name": "Rashaad Penny",
+   "pos": "RB",
+   "proj": 150.7
+  },
+  {
+   "name": "Nyheim Hines",
+   "pos": "RB",
+   "proj": 152.9
+  },
+  {
+   "name": "Michael Carter",
+   "pos": "RB",
+   "proj": 144.4
+  },
+  {
+   "name": "James Robinson",
+   "pos": "RB",
+   "proj": 131.1
+  },
+  {
+   "name": "James Cook",
+   "pos": "RB",
+   "proj": 137.5
+  },
+  {
+   "name": "Jamaal Williams",
+   "pos": "RB",
+   "proj": 126.7
+  },
+  {
+   "name": "Raheem Mostert",
+   "pos": "RB",
+   "proj": 120.3
+  },
+  {
+   "name": "Kenneth Walker",
+   "pos": "RB",
+   "proj": 117.8
+  },
+  {
+   "name": "Kenneth Gainwell",
+   "pos": "RB",
+   "proj": 122.2
+  },
+  {
+   "name": "J.D. McKissic",
+   "pos": "RB",
+   "proj": 127.7
+  },
+  {
+   "name": "Darrell Henderson",
+   "pos": "RB",
+   "proj": 110.4
+  },
+  {
+   "name": "Alexander Mattison",
+   "pos": "RB",
+   "proj": 110.9
+  },
+  {
+   "name": "Rex Burkhead",
+   "pos": "RB",
+   "proj": 98.7
+  },
+  {
+   "name": "Mark Ingram",
+   "pos": "RB",
+   "proj": 94.3
+  },
+  {
+   "name": "Ameer Abdullah",
+   "pos": "RB",
+   "proj": 101.8
+  },
+  {
+   "name": "Brian Robinson Jr.",
+   "pos": "RB",
+   "proj": 86.2
+  },
+  {
+   "name": "Damien Williams",
+   "pos": "RB",
+   "proj": 92.4
+  },
+  {
+   "name": "Gus Edwards",
+   "pos": "RB",
+   "proj": 80.5
+  },
+  {
+   "name": "Rachaad White",
+   "pos": "RB",
+   "proj": 82.9
+  },
+  {
+   "name": "Jerick McKinnon",
+   "pos": "RB",
+   "proj": 87.1
+  },
+  {
+   "name": "Khalil Herbert",
+   "pos": "RB",
+   "proj": 79.2
+  },
+  {
+   "name": "Matt Breida",
+   "pos": "RB",
+   "proj": 74.7
+  },
+  {
+   "name": "Zamir White",
+   "pos": "RB",
+   "proj": 70.2
+  },
+  {
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "proj": 78.4
+  },
+  {
+   "name": "Boston Scott",
+   "pos": "RB",
+   "proj": 69.7
+  },
+  {
+   "name": "Kyle Juszczyk",
+   "pos": "RB",
+   "proj": 79.6
+  },
+  {
+   "name": "Dontrell Hilliard",
+   "pos": "RB",
+   "proj": 70.0
+  },
+  {
+   "name": "D'Onta Foreman",
+   "pos": "RB",
+   "proj": 61.5
+  },
+  {
+   "name": "Eno Benjamin",
+   "pos": "RB",
+   "proj": 63.4
+  },
+  {
+   "name": "Isaiah Spiller",
+   "pos": "RB",
+   "proj": 64.1
+  },
+  {
+   "name": "Tyler Allgeier",
+   "pos": "RB",
+   "proj": 58.3
+  },
+  {
+   "name": "Isiah Pacheco",
+   "pos": "RB",
+   "proj": 56.6
+  },
+  {
+   "name": "Sony Michel",
+   "pos": "RB",
+   "proj": 57.2
+  },
+  {
+   "name": "Jeff Wilson",
+   "pos": "RB",
+   "proj": 55.8
+  },
+  {
+   "name": "D'Ernest Johnson",
+   "pos": "RB",
+   "proj": 53.9
+  },
+  {
+   "name": "Chuba Hubbard",
+   "pos": "RB",
+   "proj": 57.0
+  },
+  {
+   "name": "Ke'Shawn Vaughn",
+   "pos": "RB",
+   "proj": 46.4
+  },
+  {
+   "name": "Travis Homer",
+   "pos": "RB",
+   "proj": 49.0
+  },
+  {
+   "name": "Ronald Jones",
+   "pos": "RB",
+   "proj": 42.2
+  },
+  {
+   "name": "Chris Evans",
+   "pos": "RB",
+   "proj": 48.3
+  },
+  {
+   "name": "Tyrion Davis-Price",
+   "pos": "RB",
+   "proj": 38.8
+  },
+  {
+   "name": "Mike Davis",
+   "pos": "RB",
+   "proj": 38.6
+  },
+  {
+   "name": "Brandon Bolden",
+   "pos": "RB",
+   "proj": 42.4
+  },
+  {
+   "name": "Benny Snell",
+   "pos": "RB",
+   "proj": 37.9
+  },
+  {
+   "name": "Joshua Kelley",
+   "pos": "RB",
+   "proj": 34.2
+  },
+  {
+   "name": "Kenyan Drake",
+   "pos": "RB",
+   "proj": 33.5
+  },
+  {
+   "name": "Darrel Williams",
+   "pos": "RB",
+   "proj": 32.7
+  },
+  {
+   "name": "Snoop Conner",
+   "pos": "RB",
+   "proj": 34.0
+  },
+  {
+   "name": "Craig Reynolds",
+   "pos": "RB",
+   "proj": 32.0
+  },
+  {
+   "name": "Gary Brightwell",
+   "pos": "RB",
+   "proj": 31.7
+  },
+  {
+   "name": "Hassan Haskins",
+   "pos": "RB",
+   "proj": 29.5
+  },
+  {
+   "name": "Myles Gaskin",
+   "pos": "RB",
+   "proj": 32.4
+  },
+  {
+   "name": "Jaylen Warren",
+   "pos": "RB",
+   "proj": 27.8
+  },
+  {
+   "name": "Zack Moss",
+   "pos": "RB",
+   "proj": 27.3
+  },
+  {
+   "name": "Tony Jones",
+   "pos": "RB",
+   "proj": 27.2
+  },
+  {
+   "name": "Kyren Williams",
+   "pos": "RB",
+   "proj": 26.8
+  },
+  {
+   "name": "Giovani Bernard",
+   "pos": "RB",
+   "proj": 26.8
+  },
+  {
+   "name": "Ty Montgomery",
+   "pos": "RB",
+   "proj": 19.2
+  },
+  {
+   "name": "Cooper Kupp",
+   "pos": "WR",
+   "proj": 324.3
+  },
+  {
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "proj": 291.3
+  },
+  {
+   "name": "Ja'Marr Chase",
+   "pos": "WR",
+   "proj": 278.5
+  },
+  {
+   "name": "Stefon Diggs",
+   "pos": "WR",
+   "proj": 271.7
+  },
+  {
+   "name": "CeeDee Lamb",
+   "pos": "WR",
+   "proj": 260.0
+  },
+  {
+   "name": "Davante Adams",
+   "pos": "WR",
+   "proj": 260.6
+  },
+  {
+   "name": "Tyreek Hill",
+   "pos": "WR",
+   "proj": 254.1
+  },
+  {
+   "name": "Deebo Samuel",
+   "pos": "WR",
+   "proj": 232.7
+  },
+  {
+   "name": "Mike Evans",
+   "pos": "WR",
+   "proj": 233.5
+  },
+  {
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "proj": 241.0
+  },
+  {
+   "name": "Tee Higgins",
+   "pos": "WR",
+   "proj": 228.7
+  },
+  {
+   "name": "Michael Pittman Jr.",
+   "pos": "WR",
+   "proj": 229.3
+  },
+  {
+   "name": "Brandin Cooks",
+   "pos": "WR",
+   "proj": 230.8
+  },
+  {
+   "name": "D.J. Moore",
+   "pos": "WR",
+   "proj": 228.3
+  },
+  {
+   "name": "Mike Williams",
+   "pos": "WR",
+   "proj": 221.6
+  },
+  {
+   "name": "Diontae Johnson",
+   "pos": "WR",
+   "proj": 230.5
+  },
+  {
+   "name": "A.J. Brown",
+   "pos": "WR",
+   "proj": 224.0
+  },
+  {
+   "name": "Darnell Mooney",
+   "pos": "WR",
+   "proj": 224.8
+  },
+  {
+   "name": "Amon-Ra St. Brown",
+   "pos": "WR",
+   "proj": 224.9
+  },
+  {
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "proj": 216.8
+  },
+  {
+   "name": "Terry McLaurin",
+   "pos": "WR",
+   "proj": 217.7
+  },
+  {
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "proj": 212.4
+  },
+  {
+   "name": "Jerry Jeudy",
+   "pos": "WR",
+   "proj": 214.9
+  },
+  {
+   "name": "JuJu Smith-Schuster",
+   "pos": "WR",
+   "proj": 203.7
+  },
+  {
+   "name": "Chris Godwin",
+   "pos": "WR",
+   "proj": 201.8
+  },
+  {
+   "name": "Michael Thomas",
+   "pos": "WR",
+   "proj": 204.7
+  },
+  {
+   "name": "Gabe Davis",
+   "pos": "WR",
+   "proj": 191.5
+  },
+  {
+   "name": "Rashod Bateman",
+   "pos": "WR",
+   "proj": 196.4
+  },
+  {
+   "name": "Adam Thielen",
+   "pos": "WR",
+   "proj": 192.3
+  },
+  {
+   "name": "Allen Robinson",
+   "pos": "WR",
+   "proj": 193.9
+  },
+  {
+   "name": "Hunter Renfrow",
+   "pos": "WR",
+   "proj": 197.6
+  },
+  {
+   "name": "Jaylen Waddle",
+   "pos": "WR",
+   "proj": 191.7
+  },
+  {
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "proj": 189.6
+  },
+  {
+   "name": "Christian Kirk",
+   "pos": "WR",
+   "proj": 187.6
+  },
+  {
+   "name": "Drake London",
+   "pos": "WR",
+   "proj": 184.5
+  },
+  {
+   "name": "Amari Cooper",
+   "pos": "WR",
+   "proj": 183.9
+  },
+  {
+   "name": "Tyler Lockett",
+   "pos": "WR",
+   "proj": 184.4
+  },
+  {
+   "name": "Kadarius Toney",
+   "pos": "WR",
+   "proj": 183.2
+  },
+  {
+   "name": "Robert Woods",
+   "pos": "WR",
+   "proj": 180.4
+  },
+  {
+   "name": "Allen Lazard",
+   "pos": "WR",
+   "proj": 173.5
+  },
+  {
+   "name": "Marquise Brown",
+   "pos": "WR",
+   "proj": 175.5
+  },
+  {
+   "name": "Russell Gage",
+   "pos": "WR",
+   "proj": 170.4
+  },
+  {
+   "name": "Tyler Boyd",
+   "pos": "WR",
+   "proj": 168.3
+  },
+  {
+   "name": "Brandon Aiyuk",
+   "pos": "WR",
+   "proj": 166.1
+  },
+  {
+   "name": "DeAndre Hopkins",
+   "pos": "WR",
+   "proj": 162.1
+  },
+  {
+   "name": "Nico Collins",
+   "pos": "WR",
+   "proj": 162.4
+  },
+  {
+   "name": "Chase Claypool",
+   "pos": "WR",
+   "proj": 162.7
+  },
+  {
+   "name": "Chris Olave",
+   "pos": "WR",
+   "proj": 158.2
+  },
+  {
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "proj": 160.4
+  },
+  {
+   "name": "Mecole Hardman",
+   "pos": "WR",
+   "proj": 154.8
+  },
+  {
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "proj": 155.3
+  },
+  {
+   "name": "Kenny Golladay",
+   "pos": "WR",
+   "proj": 151.2
+  },
+  {
+   "name": "DeVonta Smith",
+   "pos": "WR",
+   "proj": 151.4
+  },
+  {
+   "name": "Robbie Chosen",
+   "pos": "WR",
+   "proj": 153.9
+  },
+  {
+   "name": "Van Jefferson",
+   "pos": "WR",
+   "proj": 146.8
+  },
+  {
+   "name": "DeVante Parker",
+   "pos": "WR",
+   "proj": 147.5
+  },
+  {
+   "name": "Garrett Wilson",
+   "pos": "WR",
+   "proj": 147.7
+  },
+  {
+   "name": "Marquez Valdes-Scantling",
+   "pos": "WR",
+   "proj": 140.7
+  },
+  {
+   "name": "George Pickens",
+   "pos": "WR",
+   "proj": 144.5
+  },
+  {
+   "name": "Rondale Moore",
+   "pos": "WR",
+   "proj": 140.9
+  },
+  {
+   "name": "Curtis Samuel",
+   "pos": "WR",
+   "proj": 133.8
+  },
+  {
+   "name": "Michael Gallup",
+   "pos": "WR",
+   "proj": 135.1
+  },
+  {
+   "name": "Jahan Dotson",
+   "pos": "WR",
+   "proj": 134.5
+  },
+  {
+   "name": "Jarvis Landry",
+   "pos": "WR",
+   "proj": 131.6
+  },
+  {
+   "name": "Skyy Moore",
+   "pos": "WR",
+   "proj": 129.4
+  },
+  {
+   "name": "Jalen Tolbert",
+   "pos": "WR",
+   "proj": 126.6
+  },
+  {
+   "name": "KJ Hamler",
+   "pos": "WR",
+   "proj": 125.6
+  },
+  {
+   "name": "Romeo Doubs",
+   "pos": "WR",
+   "proj": 123.5
+  },
+  {
+   "name": "Corey Davis",
+   "pos": "WR",
+   "proj": 119.5
+  },
+  {
+   "name": "K.J. Osborn",
+   "pos": "WR",
+   "proj": 120.3
+  },
+  {
+   "name": "Josh Palmer",
+   "pos": "WR",
+   "proj": 119.3
+  },
+  {
+   "name": "Marvin Jones",
+   "pos": "WR",
+   "proj": 120.5
+  },
+  {
+   "name": "Isaiah McKenzie",
+   "pos": "WR",
+   "proj": 118.9
+  },
+  {
+   "name": "Parris Campbell",
+   "pos": "WR",
+   "proj": 111.7
+  },
+  {
+   "name": "Julio Jones",
+   "pos": "WR",
+   "proj": 106.9
+  },
+  {
+   "name": "Zay Jones",
+   "pos": "WR",
+   "proj": 109.0
+  },
+  {
+   "name": "Alec Pierce",
+   "pos": "WR",
+   "proj": 103.5
+  },
+  {
+   "name": "Jameson Williams",
+   "pos": "WR",
+   "proj": 104.1
+  },
+  {
+   "name": "Christian Watson",
+   "pos": "WR",
+   "proj": 102.5
+  },
+  {
+   "name": "Devin Duvernay",
+   "pos": "WR",
+   "proj": 106.5
+  },
+  {
+   "name": "Wan'Dale Robinson",
+   "pos": "WR",
+   "proj": 101.5
+  },
+  {
+   "name": "D.J. Chark",
+   "pos": "WR",
+   "proj": 98.6
+  },
+  {
+   "name": "Nick Westbrook-Ikhine",
+   "pos": "WR",
+   "proj": 100.5
+  },
+  {
+   "name": "Donovan Peoples-Jones",
+   "pos": "WR",
+   "proj": 96.8
+  },
+  {
+   "name": "Velus Jones Jr.",
+   "pos": "WR",
+   "proj": 96.7
+  },
+  {
+   "name": "Cedrick Wilson",
+   "pos": "WR",
+   "proj": 96.3
+  },
+  {
+   "name": "Randall Cobb",
+   "pos": "WR",
+   "proj": 95.0
+  },
+  {
+   "name": "Braxton Berrios",
+   "pos": "WR",
+   "proj": 96.7
+  },
+  {
+   "name": "Sammy Watkins",
+   "pos": "WR",
+   "proj": 91.1
+  },
+  {
+   "name": "A.J. Green",
+   "pos": "WR",
+   "proj": 90.8
+  },
+  {
+   "name": "Nelson Agholor",
+   "pos": "WR",
+   "proj": 90.3
+  },
+  {
+   "name": "Dee Eskridge",
+   "pos": "WR",
+   "proj": 81.1
+  },
+  {
+   "name": "James Washington",
+   "pos": "WR",
+   "proj": 75.5
+  },
+  {
+   "name": "Sterling Shepard",
+   "pos": "WR",
+   "proj": 76.7
+  },
+  {
+   "name": "Olamide Zaccheaus",
+   "pos": "WR",
+   "proj": 76.5
+  },
+  {
+   "name": "Byron Pringle",
+   "pos": "WR",
+   "proj": 73.9
+  },
+  {
+   "name": "Jamison Crowder",
+   "pos": "WR",
+   "proj": 75.1
+  },
+  {
+   "name": "Anthony Schwartz",
+   "pos": "WR",
+   "proj": 72.6
+  },
+  {
+   "name": "Terrace Marshall Jr.",
+   "pos": "WR",
+   "proj": 72.9
+  },
+  {
+   "name": "Quez Watkins",
+   "pos": "WR",
+   "proj": 68.8
+  },
+  {
+   "name": "Mark Andrews",
+   "pos": "TE",
+   "proj": 246.4
+  },
+  {
+   "name": "Travis Kelce",
+   "pos": "TE",
+   "proj": 231.4
+  },
+  {
+   "name": "Kyle Pitts",
+   "pos": "TE",
+   "proj": 206.9
+  },
+  {
+   "name": "Darren Waller",
+   "pos": "TE",
+   "proj": 195.5
+  },
+  {
+   "name": "George Kittle",
+   "pos": "TE",
+   "proj": 186.3
+  },
+  {
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "proj": 189.7
+  },
+  {
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "proj": 169.1
+  },
+  {
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "proj": 164.7
+  },
+  {
+   "name": "Zach Ertz",
+   "pos": "TE",
+   "proj": 161.7
+  },
+  {
+   "name": "Cole Kmet",
+   "pos": "TE",
+   "proj": 159.7
+  },
+  {
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "proj": 150.7
+  },
+  {
+   "name": "Dawson Knox",
+   "pos": "TE",
+   "proj": 146.5
+  },
+  {
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "proj": 145.0
+  },
+  {
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "proj": 146.7
+  },
+  {
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "proj": 142.2
+  },
+  {
+   "name": "Albert Okwuegbunam",
+   "pos": "TE",
+   "proj": 139.4
+  },
+  {
+   "name": "David Njoku",
+   "pos": "TE",
+   "proj": 142.6
+  },
+  {
+   "name": "Austin Hooper",
+   "pos": "TE",
+   "proj": 134.6
+  },
+  {
+   "name": "Irv Smith",
+   "pos": "TE",
+   "proj": 130.4
+  },
+  {
+   "name": "Logan Thomas",
+   "pos": "TE",
+   "proj": 133.7
+  },
+  {
+   "name": "Noah Fant",
+   "pos": "TE",
+   "proj": 128.5
+  },
+  {
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "proj": 123.3
+  },
+  {
+   "name": "Evan Engram",
+   "pos": "TE",
+   "proj": 122.1
+  },
+  {
+   "name": "Gerald Everett",
+   "pos": "TE",
+   "proj": 118.2
+  },
+  {
+   "name": "Brevin Jordan",
+   "pos": "TE",
+   "proj": 106.5
+  },
+  {
+   "name": "Mo Alie-Cox",
+   "pos": "TE",
+   "proj": 100.6
+  },
+  {
+   "name": "Hayden Hurst",
+   "pos": "TE",
+   "proj": 100.2
+  },
+  {
+   "name": "C.J. Uzomah",
+   "pos": "TE",
+   "proj": 98.7
+  },
+  {
+   "name": "Jonnu Smith",
+   "pos": "TE",
+   "proj": 95.2
+  },
+  {
+   "name": "Isaiah Likely",
+   "pos": "TE",
+   "proj": 92.4
+  },
+  {
+   "name": "Cameron Brate",
+   "pos": "TE",
+   "proj": 92.5
+  },
+  {
+   "name": "Harrison Bryant",
+   "pos": "TE",
+   "proj": 83.5
+  }
+ ],
+ "actual2022": [
+  {
+   "name": "Patrick Mahomes II",
+   "pos": "QB",
+   "pts": 429.4,
+   "games": 17
+  },
+  {
+   "name": "Josh Allen",
+   "pos": "QB",
+   "pts": 412.4,
+   "games": 17
+  },
+  {
+   "name": "Jalen Hurts",
+   "pos": "QB",
+   "pts": 384.1,
+   "games": 15
+  },
+  {
+   "name": "Joe Burrow",
+   "pos": "QB",
+   "pts": 369.0,
+   "games": 17
+  },
+  {
+   "name": "Geno Smith",
+   "pos": "QB",
+   "pts": 314.9,
+   "games": 17
+  },
+  {
+   "name": "Justin Fields",
+   "pos": "QB",
+   "pts": 307.0,
+   "games": 15
+  },
+  {
+   "name": "Kirk Cousins",
+   "pos": "QB",
+   "pts": 305.6,
+   "games": 17
+  },
+  {
+   "name": "Trevor Lawrence",
+   "pos": "QB",
+   "pts": 303.7,
+   "games": 17
+  },
+  {
+   "name": "Daniel Jones",
+   "pos": "QB",
+   "pts": 293.9,
+   "games": 16
+  },
+  {
+   "name": "Jared Goff",
+   "pos": "QB",
+   "pts": 291.3,
+   "games": 17
+  },
+  {
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "pts": 291.3,
+   "games": 17
+  },
+  {
+   "name": "Tom Brady",
+   "pos": "QB",
+   "pts": 280.5,
+   "games": 17
+  },
+  {
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "pts": 251.3,
+   "games": 17
+  },
+  {
+   "name": "Lamar Jackson",
+   "pos": "QB",
+   "pts": 243.1,
+   "games": 12
+  },
+  {
+   "name": "Tua Tagovailoa",
+   "pos": "QB",
+   "pts": 239.0,
+   "games": 13
+  },
+  {
+   "name": "Russell Wilson",
+   "pos": "QB",
+   "pts": 237.0,
+   "games": 15
+  },
+  {
+   "name": "Derek Carr",
+   "pos": "QB",
+   "pts": 233.0,
+   "games": 15
+  },
+  {
+   "name": "Dak Prescott",
+   "pos": "QB",
+   "pts": 213.6,
+   "games": 12
+  },
+  {
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "pts": 207.6,
+   "games": 11
+  },
+  {
+   "name": "Marcus Mariota",
+   "pos": "QB",
+   "pts": 205.7,
+   "games": 13
+  },
+  {
+   "name": "Davis Mills",
+   "pos": "QB",
+   "pts": 196.5,
+   "games": 15
+  },
+  {
+   "name": "Andy Dalton",
+   "pos": "QB",
+   "pts": 183.3,
+   "games": 14
+  },
+  {
+   "name": "Mac Jones",
+   "pos": "QB",
+   "pts": 181.1,
+   "games": 14
+  },
+  {
+   "name": "Jacoby Brissett",
+   "pos": "QB",
+   "pts": 174.7,
+   "games": 14
+  },
+  {
+   "name": "Jimmy Garoppolo",
+   "pos": "QB",
+   "pts": 168.7,
+   "games": 11
+  },
+  {
+   "name": "Matt Ryan",
+   "pos": "QB",
+   "pts": 168.3,
+   "games": 12
+  },
+  {
+   "name": "Ryan Tannehill",
+   "pos": "QB",
+   "pts": 167.2,
+   "games": 12
+  },
+  {
+   "name": "Kenny Pickett",
+   "pos": "QB",
+   "pts": 159.0,
+   "games": 13
+  },
+  {
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "pts": 129.4,
+   "games": 12
+  },
+  {
+   "name": "Taylor Heinicke",
+   "pos": "QB",
+   "pts": 121.9,
+   "games": 9
+  },
+  {
+   "name": "Carson Wentz",
+   "pos": "QB",
+   "pts": 121.8,
+   "games": 8
+  },
+  {
+   "name": "Matthew Stafford",
+   "pos": "QB",
+   "pts": 116.5,
+   "games": 9
+  },
+  {
+   "name": "Brock Purdy",
+   "pos": "QB",
+   "pts": 110.3,
+   "games": 9
+  },
+  {
+   "name": "Zach Wilson",
+   "pos": "QB",
+   "pts": 106.0,
+   "games": 9
+  },
+  {
+   "name": "Deshaun Watson",
+   "pos": "QB",
+   "pts": 90.5,
+   "games": 6
+  },
+  {
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "pts": 89.3,
+   "games": 6
+  },
+  {
+   "name": "Mitchell Trubisky",
+   "pos": "QB",
+   "pts": 79.0,
+   "games": 7
+  },
+  {
+   "name": "Mike White",
+   "pos": "QB",
+   "pts": 60.6,
+   "games": 4
+  },
+  {
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "pts": 372.7,
+   "games": 17
+  },
+  {
+   "name": "Christian McCaffrey",
+   "pos": "RB",
+   "pts": 356.4,
+   "games": 17
+  },
+  {
+   "name": "Josh Jacobs",
+   "pos": "RB",
+   "pts": 328.3,
+   "games": 17
+  },
+  {
+   "name": "Derrick Henry",
+   "pos": "RB",
+   "pts": 302.8,
+   "games": 16
+  },
+  {
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "pts": 284.0,
+   "games": 16
+  },
+  {
+   "name": "Nick Chubb",
+   "pos": "RB",
+   "pts": 281.4,
+   "games": 17
+  },
+  {
+   "name": "Rhamondre Stevenson",
+   "pos": "RB",
+   "pts": 249.1,
+   "games": 17
+  },
+  {
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "pts": 248.8,
+   "games": 16
+  },
+  {
+   "name": "Aaron Jones Sr.",
+   "pos": "RB",
+   "pts": 248.6,
+   "games": 17
+  },
+  {
+   "name": "Joe Mixon",
+   "pos": "RB",
+   "pts": 240.7,
+   "games": 15
+  },
+  {
+   "name": "Dalvin Cook",
+   "pos": "RB",
+   "pts": 237.8,
+   "games": 17
+  },
+  {
+   "name": "Leonard Fournette",
+   "pos": "RB",
+   "pts": 227.1,
+   "games": 16
+  },
+  {
+   "name": "Jamaal Williams",
+   "pos": "RB",
+   "pts": 225.9,
+   "games": 17
+  },
+  {
+   "name": "Najee Harris",
+   "pos": "RB",
+   "pts": 223.5,
+   "games": 17
+  },
+  {
+   "name": "Miles Sanders",
+   "pos": "RB",
+   "pts": 216.7,
+   "games": 17
+  },
+  {
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "pts": 211.7,
+   "games": 15
+  },
+  {
+   "name": "Travis Etienne Jr.",
+   "pos": "RB",
+   "pts": 207.1,
+   "games": 17
+  },
+  {
+   "name": "Kenneth Walker III",
+   "pos": "RB",
+   "pts": 202.5,
+   "games": 15
+  },
+  {
+   "name": "James Conner",
+   "pos": "RB",
+   "pts": 200.2,
+   "games": 13
+  },
+  {
+   "name": "Jerick McKinnon",
+   "pos": "RB",
+   "pts": 196.3,
+   "games": 17
+  },
+  {
+   "name": "D'Andre Swift",
+   "pos": "RB",
+   "pts": 191.1,
+   "games": 14
+  },
+  {
+   "name": "Ezekiel Elliott",
+   "pos": "RB",
+   "pts": 185.8,
+   "games": 15
+  },
+  {
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "pts": 178.2,
+   "games": 17
+  },
+  {
+   "name": "David Montgomery",
+   "pos": "RB",
+   "pts": 177.7,
+   "games": 16
+  },
+  {
+   "name": "Raheem Mostert",
+   "pos": "RB",
+   "pts": 168.3,
+   "games": 16
+  },
+  {
+   "name": "AJ Dillon",
+   "pos": "RB",
+   "pts": 167.6,
+   "games": 17
+  },
+  {
+   "name": "Dameon Pierce",
+   "pos": "RB",
+   "pts": 166.4,
+   "games": 13
+  },
+  {
+   "name": "Antonio Gibson",
+   "pos": "RB",
+   "pts": 165.9,
+   "games": 15
+  },
+  {
+   "name": "Tyler Allgeier",
+   "pos": "RB",
+   "pts": 159.4,
+   "games": 16
+  },
+  {
+   "name": "Jeff Wilson Jr.",
+   "pos": "RB",
+   "pts": 158.5,
+   "games": 16
+  },
+  {
+   "name": "Cordarrelle Patterson",
+   "pos": "RB",
+   "pts": 154.7,
+   "games": 13
+  },
+  {
+   "name": "Latavius Murray",
+   "pos": "RB",
+   "pts": 154.2,
+   "games": 14
+  },
+  {
+   "name": "Jonathan Taylor",
+   "pos": "RB",
+   "pts": 146.4,
+   "games": 12
+  },
+  {
+   "name": "Samaje Perine",
+   "pos": "RB",
+   "pts": 142.1,
+   "games": 16
+  },
+  {
+   "name": "Cam Akers",
+   "pos": "RB",
+   "pts": 141.3,
+   "games": 15
+  },
+  {
+   "name": "Rachaad White",
+   "pos": "RB",
+   "pts": 139.1,
+   "games": 17
+  },
+  {
+   "name": "Isiah Pacheco",
+   "pos": "RB",
+   "pts": 135.0,
+   "games": 17
+  },
+  {
+   "name": "D'Onta Foreman",
+   "pos": "RB",
+   "pts": 131.0,
+   "games": 16
+  },
+  {
+   "name": "Kareem Hunt",
+   "pos": "RB",
+   "pts": 126.8,
+   "games": 17
+  },
+  {
+   "name": "Michael Carter",
+   "pos": "RB",
+   "pts": 126.0,
+   "games": 16
+  },
+  {
+   "name": "Khalil Herbert",
+   "pos": "RB",
+   "pts": 117.8,
+   "games": 13
+  },
+  {
+   "name": "Breece Hall",
+   "pos": "RB",
+   "pts": 115.1,
+   "games": 7
+  },
+  {
+   "name": "Brian Robinson Jr.",
+   "pos": "RB",
+   "pts": 112.7,
+   "games": 12
+  },
+  {
+   "name": "James Cook III",
+   "pos": "RB",
+   "pts": 107.5,
+   "games": 17
+  },
+  {
+   "name": "Kenyan Drake",
+   "pos": "RB",
+   "pts": 104.1,
+   "games": 12
+  },
+  {
+   "name": "Clyde Edwards-Helaire",
+   "pos": "RB",
+   "pts": 98.3,
+   "games": 10
+  },
+  {
+   "name": "Jaylen Warren",
+   "pos": "RB",
+   "pts": 93.3,
+   "games": 16
+  },
+  {
+   "name": "Damien Harris",
+   "pos": "RB",
+   "pts": 90.9,
+   "games": 11
+  },
+  {
+   "name": "Eno Benjamin",
+   "pos": "RB",
+   "pts": 89.6,
+   "games": 13
+  },
+  {
+   "name": "James Robinson",
+   "pos": "RB",
+   "pts": 88.6,
+   "games": 11
+  },
+  {
+   "name": "Alexander Mattison",
+   "pos": "RB",
+   "pts": 88.4,
+   "games": 17
+  },
+  {
+   "name": "Kenny Gainwell",
+   "pos": "RB",
+   "pts": 87.9,
+   "games": 17
+  },
+  {
+   "name": "Chuba Hubbard",
+   "pos": "RB",
+   "pts": 87.7,
+   "games": 14
+  },
+  {
+   "name": "Melvin Gordon III",
+   "pos": "RB",
+   "pts": 87.1,
+   "games": 10
+  },
+  {
+   "name": "Deon Jackson",
+   "pos": "RB",
+   "pts": 84.5,
+   "games": 12
+  },
+  {
+   "name": "Nyheim Miller-Hines",
+   "pos": "RB",
+   "pts": 81.4,
+   "games": 16
+  },
+  {
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "pts": 81.2,
+   "games": 8
+  },
+  {
+   "name": "Dontrell Hilliard",
+   "pos": "RB",
+   "pts": 77.2,
+   "games": 12
+  },
+  {
+   "name": "Chase Edmonds",
+   "pos": "RB",
+   "pts": 74.2,
+   "games": 13
+  },
+  {
+   "name": "Darrell Henderson Jr.",
+   "pos": "RB",
+   "pts": 73.5,
+   "games": 10
+  },
+  {
+   "name": "Rex Burkhead",
+   "pos": "RB",
+   "pts": 71.3,
+   "games": 15
+  },
+  {
+   "name": "JaMycal Hasty",
+   "pos": "RB",
+   "pts": 70.5,
+   "games": 14
+  },
+  {
+   "name": "Joshua Kelley",
+   "pos": "RB",
+   "pts": 64.8,
+   "games": 12
+  },
+  {
+   "name": "Zack Moss",
+   "pos": "RB",
+   "pts": 64.5,
+   "games": 13
+  },
+  {
+   "name": "Matt Breida",
+   "pos": "RB",
+   "pts": 59.8,
+   "games": 17
+  },
+  {
+   "name": "Gus Edwards",
+   "pos": "RB",
+   "pts": 59.3,
+   "games": 9
+  },
+  {
+   "name": "Bam Knight",
+   "pos": "RB",
+   "pts": 59.0,
+   "games": 7
+  },
+  {
+   "name": "J.D. McKissic",
+   "pos": "RB",
+   "pts": 55.8,
+   "games": 9
+  },
+  {
+   "name": "Ameer Abdullah",
+   "pos": "RB",
+   "pts": 54.1,
+   "games": 16
+  },
+  {
+   "name": "Kyle Juszczyk",
+   "pos": "RB",
+   "pts": 53.6,
+   "games": 13
+  },
+  {
+   "name": "Rashaad Penny",
+   "pos": "RB",
+   "pts": 52.2,
+   "games": 5
+  },
+  {
+   "name": "Justin Jackson",
+   "pos": "RB",
+   "pts": 51.1,
+   "games": 15
+  },
+  {
+   "name": "Mark Ingram II",
+   "pos": "RB",
+   "pts": 50.1,
+   "games": 10
+  },
+  {
+   "name": "Dare Ogunbowale",
+   "pos": "RB",
+   "pts": 48.7,
+   "games": 15
+  },
+  {
+   "name": "DeeJay Dallas",
+   "pos": "RB",
+   "pts": 47.2,
+   "games": 15
+  },
+  {
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "pts": 368.6,
+   "games": 17
+  },
+  {
+   "name": "Tyreek Hill",
+   "pos": "WR",
+   "pts": 347.2,
+   "games": 17
+  },
+  {
+   "name": "Davante Adams",
+   "pos": "WR",
+   "pts": 335.5,
+   "games": 17
+  },
+  {
+   "name": "Stefon Diggs",
+   "pos": "WR",
+   "pts": 321.2,
+   "games": 17
+  },
+  {
+   "name": "CeeDee Lamb",
+   "pos": "WR",
+   "pts": 301.6,
+   "games": 17
+  },
+  {
+   "name": "A.J. Brown",
+   "pos": "WR",
+   "pts": 299.6,
+   "games": 17
+  },
+  {
+   "name": "Amon-Ra St. Brown",
+   "pos": "WR",
+   "pts": 267.6,
+   "games": 16
+  },
+  {
+   "name": "Jaylen Waddle",
+   "pos": "WR",
+   "pts": 259.2,
+   "games": 17
+  },
+  {
+   "name": "DeVonta Smith",
+   "pos": "WR",
+   "pts": 254.6,
+   "games": 17
+  },
+  {
+   "name": "Amari Cooper",
+   "pos": "WR",
+   "pts": 247.0,
+   "games": 17
+  },
+  {
+   "name": "Ja'Marr Chase",
+   "pos": "WR",
+   "pts": 242.4,
+   "games": 13
+  },
+  {
+   "name": "Christian Kirk",
+   "pos": "WR",
+   "pts": 241.9,
+   "games": 17
+  },
+  {
+   "name": "Tyler Lockett",
+   "pos": "WR",
+   "pts": 237.3,
+   "games": 16
+  },
+  {
+   "name": "Terry McLaurin",
+   "pos": "WR",
+   "pts": 229.0,
+   "games": 17
+  },
+  {
+   "name": "Brandon Aiyuk",
+   "pos": "WR",
+   "pts": 227.8,
+   "games": 17
+  },
+  {
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "pts": 226.8,
+   "games": 17
+  },
+  {
+   "name": "Mike Evans",
+   "pos": "WR",
+   "pts": 225.4,
+   "games": 15
+  },
+  {
+   "name": "Tee Higgins",
+   "pos": "WR",
+   "pts": 223.2,
+   "games": 15
+  },
+  {
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "pts": 222.8,
+   "games": 15
+  },
+  {
+   "name": "Michael Pittman Jr.",
+   "pos": "WR",
+   "pts": 216.5,
+   "games": 16
+  },
+  {
+   "name": "Garrett Wilson",
+   "pos": "WR",
+   "pts": 215.7,
+   "games": 17
+  },
+  {
+   "name": "Jerry Jeudy",
+   "pos": "WR",
+   "pts": 204.2,
+   "games": 15
+  },
+  {
+   "name": "Cooper Kupp",
+   "pos": "WR",
+   "pts": 201.4,
+   "games": 9
+  },
+  {
+   "name": "DJ Moore",
+   "pos": "WR",
+   "pts": 199.1,
+   "games": 17
+  },
+  {
+   "name": "Chris Olave",
+   "pos": "WR",
+   "pts": 198.2,
+   "games": 15
+  },
+  {
+   "name": "Zay Jones",
+   "pos": "WR",
+   "pts": 198.1,
+   "games": 16
+  },
+  {
+   "name": "JuJu Smith-Schuster",
+   "pos": "WR",
+   "pts": 185.3,
+   "games": 16
+  },
+  {
+   "name": "Diontae Johnson",
+   "pos": "WR",
+   "pts": 180.7,
+   "games": 17
+  },
+  {
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "pts": 180.3,
+   "games": 14
+  },
+  {
+   "name": "Adam Thielen",
+   "pos": "WR",
+   "pts": 180.0,
+   "games": 17
+  },
+  {
+   "name": "Drake London",
+   "pos": "WR",
+   "pts": 178.6,
+   "games": 17
+  },
+  {
+   "name": "Mike Williams",
+   "pos": "WR",
+   "pts": 176.5,
+   "games": 13
+  },
+  {
+   "name": "Curtis Samuel",
+   "pos": "WR",
+   "pts": 176.3,
+   "games": 17
+  },
+  {
+   "name": "Tyler Boyd",
+   "pos": "WR",
+   "pts": 175.5,
+   "games": 17
+  },
+  {
+   "name": "Allen Lazard",
+   "pos": "WR",
+   "pts": 174.8,
+   "games": 15
+  },
+  {
+   "name": "Gabe Davis",
+   "pos": "WR",
+   "pts": 171.6,
+   "games": 15
+  },
+  {
+   "name": "Joshua Palmer",
+   "pos": "WR",
+   "pts": 169.3,
+   "games": 16
+  },
+  {
+   "name": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "pts": 168.4,
+   "games": 13
+  },
+  {
+   "name": "Donovan Peoples-Jones",
+   "pos": "WR",
+   "pts": 167.1,
+   "games": 17
+  },
+  {
+   "name": "George Pickens",
+   "pos": "WR",
+   "pts": 166.5,
+   "games": 17
+  },
+  {
+   "name": "Christian Watson",
+   "pos": "WR",
+   "pts": 164.1,
+   "games": 14
+  },
+  {
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "pts": 164.0,
+   "games": 10
+  },
+  {
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "pts": 159.4,
+   "games": 15
+  },
+  {
+   "name": "Hollywood Brown",
+   "pos": "WR",
+   "pts": 156.0,
+   "games": 12
+  },
+  {
+   "name": "K.J. Osborn",
+   "pos": "WR",
+   "pts": 155.6,
+   "games": 17
+  },
+  {
+   "name": "Mack Hollins",
+   "pos": "WR",
+   "pts": 154.2,
+   "games": 17
+  },
+  {
+   "name": "DeAndre Hopkins",
+   "pos": "WR",
+   "pts": 151.7,
+   "games": 9
+  },
+  {
+   "name": "Parris Campbell",
+   "pos": "WR",
+   "pts": 149.1,
+   "games": 17
+  },
+  {
+   "name": "Brandin Cooks",
+   "pos": "WR",
+   "pts": 145.6,
+   "games": 13
+  },
+  {
+   "name": "Richie James Jr.",
+   "pos": "WR",
+   "pts": 132.5,
+   "games": 16
+  },
+  {
+   "name": "Jahan Dotson",
+   "pos": "WR",
+   "pts": 130.6,
+   "games": 12
+  },
+  {
+   "name": "Darius Slayton",
+   "pos": "WR",
+   "pts": 128.4,
+   "games": 15
+  },
+  {
+   "name": "Russell Gage Jr.",
+   "pos": "WR",
+   "pts": 123.6,
+   "games": 13
+  },
+  {
+   "name": "Marquez Valdes-Scantling",
+   "pos": "WR",
+   "pts": 122.4,
+   "games": 17
+  },
+  {
+   "name": "Isaiah McKenzie",
+   "pos": "WR",
+   "pts": 119.8,
+   "games": 16
+  },
+  {
+   "name": "Marvin Jones Jr.",
+   "pos": "WR",
+   "pts": 116.9,
+   "games": 16
+  },
+  {
+   "name": "Kalif Raymond",
+   "pos": "WR",
+   "pts": 116.2,
+   "games": 17
+  },
+  {
+   "name": "Devin Duvernay",
+   "pos": "WR",
+   "pts": 116.1,
+   "games": 14
+  },
+  {
+   "name": "Robert Woods",
+   "pos": "WR",
+   "pts": 115.7,
+   "games": 17
+  },
+  {
+   "name": "Chris Moore",
+   "pos": "WR",
+   "pts": 115.1,
+   "games": 15
+  },
+  {
+   "name": "Noah Brown",
+   "pos": "WR",
+   "pts": 114.5,
+   "games": 16
+  },
+  {
+   "name": "Greg Dortch",
+   "pos": "WR",
+   "pts": 113.1,
+   "games": 16
+  },
+  {
+   "name": "DeAndre Carter",
+   "pos": "WR",
+   "pts": 112.3,
+   "games": 17
+  },
+  {
+   "name": "Alec Pierce",
+   "pos": "WR",
+   "pts": 112.3,
+   "games": 16
+  },
+  {
+   "name": "Olamide Zaccheaus",
+   "pos": "WR",
+   "pts": 110.0,
+   "games": 17
+  },
+  {
+   "name": "Michael Gallup",
+   "pos": "WR",
+   "pts": 105.4,
+   "games": 14
+  },
+  {
+   "name": "Chase Claypool",
+   "pos": "WR",
+   "pts": 105.0,
+   "games": 15
+  },
+  {
+   "name": "Josh Reynolds",
+   "pos": "WR",
+   "pts": 103.9,
+   "games": 12
+  },
+  {
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "pts": 103.8,
+   "games": 16
+  },
+  {
+   "name": "DeVante Parker",
+   "pos": "WR",
+   "pts": 102.9,
+   "games": 13
+  },
+  {
+   "name": "Romeo Doubs",
+   "pos": "WR",
+   "pts": 101.6,
+   "games": 13
+  },
+  {
+   "name": "Darnell Mooney",
+   "pos": "WR",
+   "pts": 101.5,
+   "games": 11
+  },
+  {
+   "name": "Rashid Shaheed",
+   "pos": "WR",
+   "pts": 100.5,
+   "games": 12
+  },
+  {
+   "name": "Isaiah Hodgins",
+   "pos": "WR",
+   "pts": 100.2,
+   "games": 9
+  },
+  {
+   "name": "DJ Chark Jr.",
+   "pos": "WR",
+   "pts": 98.2,
+   "games": 11
+  },
+  {
+   "name": "Corey Davis",
+   "pos": "WR",
+   "pts": 97.6,
+   "games": 13
+  },
+  {
+   "name": "Nico Collins",
+   "pos": "WR",
+   "pts": 97.1,
+   "games": 10
+  },
+  {
+   "name": "Treylon Burks",
+   "pos": "WR",
+   "pts": 94.1,
+   "games": 11
+  },
+  {
+   "name": "Mecole Hardman Jr.",
+   "pos": "WR",
+   "pts": 93.8,
+   "games": 8
+  },
+  {
+   "name": "Marquise Goodwin",
+   "pos": "WR",
+   "pts": 90.2,
+   "games": 13
+  },
+  {
+   "name": "Kendrick Bourne",
+   "pos": "WR",
+   "pts": 88.3,
+   "games": 16
+  },
+  {
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "pts": 88.1,
+   "games": 16
+  },
+  {
+   "name": "Allen Robinson II",
+   "pos": "WR",
+   "pts": 84.9,
+   "games": 10
+  },
+  {
+   "name": "Quez Watkins",
+   "pos": "WR",
+   "pts": 84.5,
+   "games": 17
+  },
+  {
+   "name": "Ben Skowronek",
+   "pos": "WR",
+   "pts": 84.3,
+   "games": 14
+  },
+  {
+   "name": "Trent Sherfield Sr.",
+   "pos": "WR",
+   "pts": 83.7,
+   "games": 16
+  },
+  {
+   "name": "Terrace Marshall Jr.",
+   "pos": "WR",
+   "pts": 83.0,
+   "games": 13
+  },
+  {
+   "name": "Nick Westbrook-Ikhine",
+   "pos": "WR",
+   "pts": 82.7,
+   "games": 16
+  },
+  {
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "pts": 82.6,
+   "games": 16
+  },
+  {
+   "name": "Randall Cobb",
+   "pos": "WR",
+   "pts": 81.7,
+   "games": 13
+  },
+  {
+   "name": "Hunter Renfrow",
+   "pos": "WR",
+   "pts": 79.0,
+   "games": 10
+  },
+  {
+   "name": "Van Jefferson",
+   "pos": "WR",
+   "pts": 78.9,
+   "games": 10
+  },
+  {
+   "name": "Travis Kelce",
+   "pos": "TE",
+   "pts": 316.3,
+   "games": 17
+  },
+  {
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "pts": 215.4,
+   "games": 17
+  },
+  {
+   "name": "George Kittle",
+   "pos": "TE",
+   "pts": 200.5,
+   "games": 15
+  },
+  {
+   "name": "Mark Andrews",
+   "pos": "TE",
+   "pts": 190.5,
+   "games": 15
+  },
+  {
+   "name": "Evan Engram",
+   "pos": "TE",
+   "pts": 176.9,
+   "games": 17
+  },
+  {
+   "name": "Tyler Higbee",
+   "pos": "TE",
+   "pts": 152.0,
+   "games": 16
+  },
+  {
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "pts": 148.2,
+   "games": 15
+  },
+  {
+   "name": "Cole Kmet",
+   "pos": "TE",
+   "pts": 147.3,
+   "games": 17
+  },
+  {
+   "name": "Taysom Hill",
+   "pos": "TE",
+   "pts": 145.8,
+   "games": 16
+  },
+  {
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "pts": 142.7,
+   "games": 15
+  },
+  {
+   "name": "David Njoku",
+   "pos": "TE",
+   "pts": 142.0,
+   "games": 14
+  },
+  {
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "pts": 141.2,
+   "games": 12
+  },
+  {
+   "name": "Gerald Everett",
+   "pos": "TE",
+   "pts": 139.5,
+   "games": 15
+  },
+  {
+   "name": "Dawson Knox",
+   "pos": "TE",
+   "pts": 135.7,
+   "games": 15
+  },
+  {
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "pts": 134.8,
+   "games": 16
+  },
+  {
+   "name": "Tyler Conklin",
+   "pos": "TE",
+   "pts": 131.5,
+   "games": 17
+  },
+  {
+   "name": "Noah Fant",
+   "pos": "TE",
+   "pts": 122.6,
+   "games": 17
+  },
+  {
+   "name": "Jordan Akins",
+   "pos": "TE",
+   "pts": 116.5,
+   "games": 15
+  },
+  {
+   "name": "Zach Ertz",
+   "pos": "TE",
+   "pts": 115.6,
+   "games": 10
+  },
+  {
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "pts": 112.0,
+   "games": 17
+  },
+  {
+   "name": "Hayden Hurst",
+   "pos": "TE",
+   "pts": 109.9,
+   "games": 14
+  },
+  {
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "pts": 103.9,
+   "games": 16
+  },
+  {
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "pts": 98.2,
+   "games": 17
+  },
+  {
+   "name": "Austin Hooper",
+   "pos": "TE",
+   "pts": 97.4,
+   "games": 17
+  },
+  {
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "pts": 97.2,
+   "games": 17
+  },
+  {
+   "name": "Cade Otton",
+   "pos": "TE",
+   "pts": 93.1,
+   "games": 16
+  },
+  {
+   "name": "Isaiah Likely",
+   "pos": "TE",
+   "pts": 91.3,
+   "games": 15
+  },
+  {
+   "name": "Will Dissly",
+   "pos": "TE",
+   "pts": 86.9,
+   "games": 15
+  },
+  {
+   "name": "Greg Dulcich",
+   "pos": "TE",
+   "pts": 86.1,
+   "games": 10
+  },
+  {
+   "name": "Foster Moreau",
+   "pos": "TE",
+   "pts": 85.2,
+   "games": 14
+  },
+  {
+   "name": "Darren Waller",
+   "pos": "TE",
+   "pts": 84.8,
+   "games": 9
+  },
+  {
+   "name": "Logan Thomas",
+   "pos": "TE",
+   "pts": 77.3,
+   "games": 13
+  },
+  {
+   "name": "Kyle Pitts Sr.",
+   "pos": "TE",
+   "pts": 75.6,
+   "games": 10
+  },
+  {
+   "name": "Daniel Bellinger",
+   "pos": "TE",
+   "pts": 75.0,
+   "games": 12
+  },
+  {
+   "name": "Jelani Woods",
+   "pos": "TE",
+   "pts": 74.2,
+   "games": 14
+  },
+  {
+   "name": "Noah Gray",
+   "pos": "TE",
+   "pts": 70.0,
+   "games": 17
+  },
+  {
+   "name": "Colby Parkinson",
+   "pos": "TE",
+   "pts": 69.2,
+   "games": 14
+  },
+  {
+   "name": "Brock Wright",
+   "pos": "TE",
+   "pts": 63.6,
+   "games": 16
+  },
+  {
+   "name": "Harrison Bryant",
+   "pos": "TE",
+   "pts": 61.7,
+   "games": 14
+  },
+  {
+   "name": "Trey McBride",
+   "pos": "TE",
+   "pts": 61.5,
+   "games": 14
+  },
+  {
+   "name": "Kylen Granson",
+   "pos": "TE",
+   "pts": 61.2,
+   "games": 13
+  },
+  {
+   "name": "C.J. Uzomah",
+   "pos": "TE",
+   "pts": 56.2,
+   "games": 14
+  }
+ ],
+ "games2020": [
+  [
+   "Josh Allen",
+   "QB",
+   16
+  ],
+  [
+   "Kyler Murray",
+   "QB",
+   16
+  ],
+  [
+   "Aaron Rodgers",
+   "QB",
+   16
+  ],
+  [
+   "Patrick Mahomes II",
+   "QB",
+   15
+  ],
+  [
+   "Deshaun Watson",
+   "QB",
+   16
+  ],
+  [
+   "Russell Wilson",
+   "QB",
+   16
+  ],
+  [
+   "Ryan Tannehill",
+   "QB",
+   16
+  ],
+  [
+   "Tom Brady",
+   "QB",
+   16
+  ],
+  [
+   "Justin Herbert",
+   "QB",
+   15
+  ],
+  [
+   "Lamar Jackson",
+   "QB",
+   15
+  ],
+  [
+   "Kirk Cousins",
+   "QB",
+   16
+  ],
+  [
+   "Matt Ryan",
+   "QB",
+   16
+  ],
+  [
+   "Derek Carr",
+   "QB",
+   16
+  ],
+  [
+   "Ben Roethlisberger",
+   "QB",
+   15
+  ],
+  [
+   "Cam Newton",
+   "QB",
+   15
+  ],
+  [
+   "Matthew Stafford",
+   "QB",
+   16
+  ],
+  [
+   "Baker Mayfield",
+   "QB",
+   16
+  ],
+  [
+   "Jared Goff",
+   "QB",
+   15
+  ],
+  [
+   "Teddy Bridgewater",
+   "QB",
+   15
+  ],
+  [
+   "Philip Rivers",
+   "QB",
+   16
+  ],
+  [
+   "Drew Brees",
+   "QB",
+   12
+  ],
+  [
+   "Carson Wentz",
+   "QB",
+   12
+  ],
+  [
+   "Drew Lock",
+   "QB",
+   13
+  ],
+  [
+   "Daniel Jones",
+   "QB",
+   14
+  ],
+  [
+   "Joe Burrow",
+   "QB",
+   10
+  ],
+  [
+   "Gardner Minshew II",
+   "QB",
+   9
+  ],
+  [
+   "Mitchell Trubisky",
+   "QB",
+   10
+  ],
+  [
+   "Ryan Fitzpatrick",
+   "QB",
+   10
+  ],
+  [
+   "Sam Darnold",
+   "QB",
+   12
+  ],
+  [
+   "Andy Dalton",
+   "QB",
+   11
+  ],
+  [
+   "Tua Tagovailoa",
+   "QB",
+   10
+  ],
+  [
+   "Dak Prescott",
+   "QB",
+   5
+  ],
+  [
+   "Nick Mullens",
+   "QB",
+   10
+  ],
+  [
+   "Jalen Hurts",
+   "QB",
+   15
+  ],
+  [
+   "Nick Foles",
+   "QB",
+   9
+  ],
+  [
+   "Alex Smith",
+   "QB",
+   8
+  ],
+  [
+   "Jimmy Garoppolo",
+   "QB",
+   6
+  ],
+  [
+   "Mike Glennon",
+   "QB",
+   5
+  ],
+  [
+   "Joe Flacco",
+   "QB",
+   5
+  ],
+  [
+   "Brandon Allen",
+   "QB",
+   5
+  ],
+  [
+   "C.J. Beathard",
+   "QB",
+   6
+  ],
+  [
+   "Kyle Allen",
+   "QB",
+   4
+  ],
+  [
+   "Jake Luton",
+   "QB",
+   3
+  ],
+  [
+   "Jeff Driskel",
+   "QB",
+   3
+  ],
+  [
+   "Marcus Mariota",
+   "QB",
+   1
+  ],
+  [
+   "Chad Henne",
+   "QB",
+   3
+  ],
+  [
+   "Ryan Finley",
+   "QB",
+   5
+  ],
+  [
+   "Jacoby Brissett",
+   "QB",
+   11
+  ],
+  [
+   "Mason Rudolph",
+   "QB",
+   5
+  ],
+  [
+   "Colt McCoy",
+   "QB",
+   4
+  ],
+  [
+   "Jarrett Stidham",
+   "QB",
+   5
+  ],
+  [
+   "Garrett Gilbert",
+   "QB",
+   2
+  ],
+  [
+   "Brett Rypien",
+   "QB",
+   3
+  ],
+  [
+   "Blaine Gabbert",
+   "QB",
+   4
+  ],
+  [
+   "Chase Daniel",
+   "QB",
+   4
+  ],
+  [
+   "John Wolford",
+   "QB",
+   1
+  ],
+  [
+   "P.J. Walker",
+   "QB",
+   4
+  ],
+  [
+   "Taylor Heinicke",
+   "QB",
+   1
+  ],
+  [
+   "Matt Barkley",
+   "QB",
+   5
+  ],
+  [
+   "Trace McSorley",
+   "QB",
+   2
+  ],
+  [
+   "Tyrod Taylor",
+   "QB",
+   2
+  ],
+  [
+   "Chris Streveler",
+   "QB",
+   5
+  ],
+  [
+   "Ben DiNucci",
+   "QB",
+   3
+  ],
+  [
+   "Robert Griffin III",
+   "QB",
+   4
+  ],
+  [
+   "Brian Hoyer",
+   "QB",
+   1
+  ],
+  [
+   "Tyler Huntley",
+   "QB",
+   2
+  ],
+  [
+   "David Blough",
+   "QB",
+   1
+  ],
+  [
+   "Tommy Stevens",
+   "QB",
+   1
+  ],
+  [
+   "Jameis Winston",
+   "QB",
+   4
+  ],
+  [
+   "Alvin Kamara",
+   "RB",
+   15
+  ],
+  [
+   "Dalvin Cook",
+   "RB",
+   14
+  ],
+  [
+   "Derrick Henry",
+   "RB",
+   16
+  ],
+  [
+   "David Montgomery",
+   "RB",
+   15
+  ],
+  [
+   "Aaron Jones Sr.",
+   "RB",
+   14
+  ],
+  [
+   "Jonathan Taylor",
+   "RB",
+   15
+  ],
+  [
+   "James Robinson",
+   "RB",
+   14
+  ],
+  [
+   "Josh Jacobs",
+   "RB",
+   15
+  ],
+  [
+   "Ezekiel Elliott",
+   "RB",
+   15
+  ],
+  [
+   "Kareem Hunt",
+   "RB",
+   16
+  ],
+  [
+   "Nick Chubb",
+   "RB",
+   12
+  ],
+  [
+   "Mike Davis",
+   "RB",
+   15
+  ],
+  [
+   "Antonio Gibson",
+   "RB",
+   14
+  ],
+  [
+   "Melvin Gordon III",
+   "RB",
+   15
+  ],
+  [
+   "Nyheim Miller-Hines",
+   "RB",
+   16
+  ],
+  [
+   "Kenyan Drake",
+   "RB",
+   15
+  ],
+  [
+   "J.D. McKissic",
+   "RB",
+   16
+  ],
+  [
+   "D'Andre Swift",
+   "RB",
+   13
+  ],
+  [
+   "Chris Carson",
+   "RB",
+   12
+  ],
+  [
+   "Ronald Jones II",
+   "RB",
+   14
+  ],
+  [
+   "David Johnson",
+   "RB",
+   12
+  ],
+  [
+   "Clyde Edwards-Helaire",
+   "RB",
+   13
+  ],
+  [
+   "Miles Sanders",
+   "RB",
+   12
+  ],
+  [
+   "J.K. Dobbins",
+   "RB",
+   15
+  ],
+  [
+   "Chase Edmonds",
+   "RB",
+   16
+  ],
+  [
+   "Austin Ekeler",
+   "RB",
+   10
+  ],
+  [
+   "James Conner",
+   "RB",
+   13
+  ],
+  [
+   "Myles Gaskin",
+   "RB",
+   10
+  ],
+  [
+   "Todd Gurley II",
+   "RB",
+   15
+  ],
+  [
+   "Giovani Bernard",
+   "RB",
+   16
+  ],
+  [
+   "Devin Singletary",
+   "RB",
+   16
+  ],
+  [
+   "Jeff Wilson Jr.",
+   "RB",
+   12
+  ],
+  [
+   "Wayne Gallman Jr.",
+   "RB",
+   15
+  ],
+  [
+   "Latavius Murray",
+   "RB",
+   15
+  ],
+  [
+   "Leonard Fournette",
+   "RB",
+   13
+  ],
+  [
+   "Darrell Henderson Jr.",
+   "RB",
+   15
+  ],
+  [
+   "Gus Edwards",
+   "RB",
+   16
+  ],
+  [
+   "Jamaal Williams",
+   "RB",
+   14
+  ],
+  [
+   "Jerick McKinnon",
+   "RB",
+   16
+  ],
+  [
+   "Adrian Peterson",
+   "RB",
+   16
+  ],
+  [
+   "Tony Pollard",
+   "RB",
+   16
+  ],
+  [
+   "James White",
+   "RB",
+   14
+  ],
+  [
+   "Malcolm Brown",
+   "RB",
+   16
+  ],
+  [
+   "Rex Burkhead",
+   "RB",
+   10
+  ],
+  [
+   "Cam Akers",
+   "RB",
+   12
+  ],
+  [
+   "Zack Moss",
+   "RB",
+   13
+  ],
+  [
+   "Frank Gore",
+   "RB",
+   15
+  ],
+  [
+   "Raheem Mostert",
+   "RB",
+   8
+  ],
+  [
+   "Joe Mixon",
+   "RB",
+   6
+  ],
+  [
+   "Boston Scott",
+   "RB",
+   16
+  ],
+  [
+   "Brian Hill",
+   "RB",
+   16
+  ],
+  [
+   "Kalen Ballage",
+   "RB",
+   11
+  ],
+  [
+   "Damien Harris",
+   "RB",
+   10
+  ],
+  [
+   "Christian McCaffrey",
+   "RB",
+   3
+  ],
+  [
+   "Alexander Mattison",
+   "RB",
+   13
+  ],
+  [
+   "Devontae Booker",
+   "RB",
+   16
+  ],
+  [
+   "Carlos Hyde",
+   "RB",
+   10
+  ],
+  [
+   "Duke Johnson Jr.",
+   "RB",
+   11
+  ],
+  [
+   "Kyle Juszczyk",
+   "RB",
+   16
+  ],
+  [
+   "Joshua Kelley",
+   "RB",
+   14
+  ],
+  [
+   "Sony Michel",
+   "RB",
+   9
+  ],
+  [
+   "Benny Snell Jr.",
+   "RB",
+   16
+  ],
+  [
+   "Le'Veon Bell",
+   "RB",
+   11
+  ],
+  [
+   "Kerryon Johnson",
+   "RB",
+   16
+  ],
+  [
+   "Salvon Ahmed",
+   "RB",
+   6
+  ],
+  [
+   "Phillip Lindsay",
+   "RB",
+   11
+  ],
+  [
+   "Samaje Perine",
+   "RB",
+   16
+  ],
+  [
+   "Justin Jackson",
+   "RB",
+   9
+  ],
+  [
+   "Ty Johnson",
+   "RB",
+   13
+  ],
+  [
+   "Jordan Wilkins",
+   "RB",
+   15
+  ],
+  [
+   "Ito Smith",
+   "RB",
+   14
+  ],
+  [
+   "Dion Lewis",
+   "RB",
+   16
+  ],
+  [
+   "DeeJay Dallas",
+   "RB",
+   12
+  ],
+  [
+   "Cordarrelle Patterson",
+   "RB",
+   16
+  ],
+  [
+   "Peyton Barber",
+   "RB",
+   16
+  ],
+  [
+   "Darrel Williams",
+   "RB",
+   16
+  ],
+  [
+   "Mark Ingram II",
+   "RB",
+   11
+  ],
+  [
+   "La'Mical Perine",
+   "RB",
+   10
+  ],
+  [
+   "Jalen Richard",
+   "RB",
+   13
+  ],
+  [
+   "Jeremy McNichols",
+   "RB",
+   16
+  ],
+  [
+   "Chris Thompson",
+   "RB",
+   8
+  ],
+  [
+   "Matt Breida",
+   "RB",
+   12
+  ],
+  [
+   "Alfred Morris",
+   "RB",
+   9
+  ],
+  [
+   "AJ Dillon",
+   "RB",
+   11
+  ],
+  [
+   "Royce Freeman",
+   "RB",
+   16
+  ],
+  [
+   "Josh Adams",
+   "RB",
+   8
+  ],
+  [
+   "Rodney Smith",
+   "RB",
+   7
+  ],
+  [
+   "Davante Adams",
+   "WR",
+   14
+  ],
+  [
+   "Tyreek Hill",
+   "WR",
+   15
+  ],
+  [
+   "Stefon Diggs",
+   "WR",
+   16
+  ],
+  [
+   "DeAndre Hopkins",
+   "WR",
+   16
+  ],
+  [
+   "Calvin Ridley",
+   "WR",
+   15
+  ],
+  [
+   "Justin Jefferson",
+   "WR",
+   16
+  ],
+  [
+   "DK Metcalf",
+   "WR",
+   16
+  ],
+  [
+   "Tyler Lockett",
+   "WR",
+   16
+  ],
+  [
+   "Allen Robinson II",
+   "WR",
+   16
+  ],
+  [
+   "Adam Thielen",
+   "WR",
+   15
+  ],
+  [
+   "Mike Evans",
+   "WR",
+   16
+  ],
+  [
+   "A.J. Brown",
+   "WR",
+   14
+  ],
+  [
+   "Robert Woods",
+   "WR",
+   16
+  ],
+  [
+   "Keenan Allen",
+   "WR",
+   14
+  ],
+  [
+   "Amari Cooper",
+   "WR",
+   16
+  ],
+  [
+   "JuJu Smith-Schuster",
+   "WR",
+   16
+  ],
+  [
+   "Brandin Cooks",
+   "WR",
+   15
+  ],
+  [
+   "Marvin Jones Jr.",
+   "WR",
+   16
+  ],
+  [
+   "Robbie Anderson",
+   "WR",
+   16
+  ],
+  [
+   "Terry McLaurin",
+   "WR",
+   15
+  ],
+  [
+   "Diontae Johnson",
+   "WR",
+   15
+  ],
+  [
+   "CeeDee Lamb",
+   "WR",
+   16
+  ],
+  [
+   "Chase Claypool",
+   "WR",
+   16
+  ],
+  [
+   "Curtis Samuel",
+   "WR",
+   15
+  ],
+  [
+   "DJ Moore",
+   "WR",
+   15
+  ],
+  [
+   "Cooper Kupp",
+   "WR",
+   15
+  ],
+  [
+   "Cole Beasley",
+   "WR",
+   15
+  ],
+  [
+   "Tee Higgins",
+   "WR",
+   16
+  ],
+  [
+   "Tyler Boyd",
+   "WR",
+   15
+  ],
+  [
+   "Corey Davis",
+   "WR",
+   14
+  ],
+  [
+   "Chris Godwin",
+   "WR",
+   12
+  ],
+  [
+   "William Fuller V",
+   "WR",
+   11
+  ],
+  [
+   "Jarvis Landry",
+   "WR",
+   15
+  ],
+  [
+   "Nelson Agholor",
+   "WR",
+   16
+  ],
+  [
+   "Brandon Aiyuk",
+   "WR",
+   12
+  ],
+  [
+   "Hollywood Brown",
+   "WR",
+   16
+  ],
+  [
+   "Russell Gage Jr.",
+   "WR",
+   16
+  ],
+  [
+   "Michael Gallup",
+   "WR",
+   16
+  ],
+  [
+   "Jamison Crowder",
+   "WR",
+   12
+  ],
+  [
+   "DeVante Parker",
+   "WR",
+   14
+  ],
+  [
+   "Emmanuel Sanders",
+   "WR",
+   14
+  ],
+  [
+   "T.Y. Hilton",
+   "WR",
+   15
+  ],
+  [
+   "Sterling Shepard",
+   "WR",
+   12
+  ],
+  [
+   "Tim Patrick",
+   "WR",
+   15
+  ],
+  [
+   "Jerry Jeudy",
+   "WR",
+   16
+  ],
+  [
+   "Laviska Shenault Jr.",
+   "WR",
+   14
+  ],
+  [
+   "Keelan Cole Sr.",
+   "WR",
+   16
+  ],
+  [
+   "Mike Williams",
+   "WR",
+   15
+  ],
+  [
+   "DJ Chark Jr.",
+   "WR",
+   13
+  ],
+  [
+   "Darnell Mooney",
+   "WR",
+   16
+  ],
+  [
+   "Christian Kirk",
+   "WR",
+   14
+  ],
+  [
+   "Julio Jones",
+   "WR",
+   9
+  ],
+  [
+   "Jakobi Meyers",
+   "WR",
+   14
+  ],
+  [
+   "Darius Slayton",
+   "WR",
+   16
+  ],
+  [
+   "Marquez Valdes-Scantling",
+   "WR",
+   16
+  ],
+  [
+   "Zach Pascal",
+   "WR",
+   16
+  ],
+  [
+   "Gabe Davis",
+   "WR",
+   16
+  ],
+  [
+   "Greg Ward",
+   "WR",
+   16
+  ],
+  [
+   "Hunter Renfrow",
+   "WR",
+   16
+  ],
+  [
+   "Kendrick Bourne",
+   "WR",
+   15
+  ],
+  [
+   "Mecole Hardman Jr.",
+   "WR",
+   16
+  ],
+  [
+   "Josh Reynolds",
+   "WR",
+   16
+  ],
+  [
+   "Rashard Higgins",
+   "WR",
+   13
+  ],
+  [
+   "David Moore",
+   "WR",
+   16
+  ],
+  [
+   "Antonio Brown",
+   "WR",
+   8
+  ],
+  [
+   "Travis Fulgham",
+   "WR",
+   13
+  ],
+  [
+   "Damiere Byrd",
+   "WR",
+   16
+  ],
+  [
+   "A.J. Green",
+   "WR",
+   16
+  ],
+  [
+   "Anthony Miller",
+   "WR",
+   16
+  ],
+  [
+   "Demarcus Robinson",
+   "WR",
+   15
+  ],
+  [
+   "Danny Amendola",
+   "WR",
+   14
+  ],
+  [
+   "Tre'Quan Smith",
+   "WR",
+   14
+  ],
+  [
+   "Scotty Miller",
+   "WR",
+   16
+  ],
+  [
+   "Larry Fitzgerald",
+   "WR",
+   13
+  ],
+  [
+   "Randall Cobb",
+   "WR",
+   10
+  ],
+  [
+   "Isaiah McKenzie",
+   "WR",
+   16
+  ],
+  [
+   "James Washington",
+   "WR",
+   16
+  ],
+  [
+   "Breshad Perriman",
+   "WR",
+   12
+  ],
+  [
+   "Michael Pittman Jr.",
+   "WR",
+   13
+  ],
+  [
+   "Allen Lazard",
+   "WR",
+   10
+  ],
+  [
+   "Braxton Berrios",
+   "WR",
+   16
+  ],
+  [
+   "Chris Conley",
+   "WR",
+   15
+  ],
+  [
+   "Jalen Guyton",
+   "WR",
+   16
+  ],
+  [
+   "John Brown",
+   "WR",
+   9
+  ],
+  [
+   "Willie Snead IV",
+   "WR",
+   13
+  ],
+  [
+   "KJ Hamler",
+   "WR",
+   13
+  ],
+  [
+   "Sammy Watkins",
+   "WR",
+   10
+  ],
+  [
+   "Jakeem Grant Sr.",
+   "WR",
+   14
+  ],
+  [
+   "Jalen Reagor",
+   "WR",
+   11
+  ],
+  [
+   "Travis Kelce",
+   "TE",
+   15
+  ],
+  [
+   "Darren Waller",
+   "TE",
+   16
+  ],
+  [
+   "Logan Thomas",
+   "TE",
+   16
+  ],
+  [
+   "Robert Tonyan",
+   "TE",
+   16
+  ],
+  [
+   "T.J. Hockenson",
+   "TE",
+   16
+  ],
+  [
+   "Mark Andrews",
+   "TE",
+   14
+  ],
+  [
+   "Mike Gesicki",
+   "TE",
+   15
+  ],
+  [
+   "Taysom Hill",
+   "TE",
+   16
+  ],
+  [
+   "Rob Gronkowski",
+   "TE",
+   16
+  ],
+  [
+   "Noah Fant",
+   "TE",
+   15
+  ],
+  [
+   "Hayden Hurst",
+   "TE",
+   16
+  ],
+  [
+   "Dalton Schultz",
+   "TE",
+   16
+  ],
+  [
+   "Hunter Henry",
+   "TE",
+   14
+  ],
+  [
+   "Jimmy Graham",
+   "TE",
+   16
+  ],
+  [
+   "Eric Ebron",
+   "TE",
+   15
+  ],
+  [
+   "Evan Engram",
+   "TE",
+   16
+  ],
+  [
+   "Jonnu Smith",
+   "TE",
+   15
+  ],
+  [
+   "Tyler Higbee",
+   "TE",
+   15
+  ],
+  [
+   "Jared Cook",
+   "TE",
+   15
+  ],
+  [
+   "George Kittle",
+   "TE",
+   8
+  ],
+  [
+   "Dallas Goedert",
+   "TE",
+   11
+  ],
+  [
+   "Austin Hooper",
+   "TE",
+   13
+  ],
+  [
+   "Irv Smith Jr.",
+   "TE",
+   13
+  ],
+  [
+   "Dan Arnold",
+   "TE",
+   16
+  ],
+  [
+   "Gerald Everett",
+   "TE",
+   16
+  ],
+  [
+   "Anthony Firkser",
+   "TE",
+   16
+  ],
+  [
+   "Jordan Akins",
+   "TE",
+   13
+  ],
+  [
+   "Trey Burton",
+   "TE",
+   13
+  ],
+  [
+   "Tyler Eifert",
+   "TE",
+   15
+  ],
+  [
+   "Mo Alie-Cox",
+   "TE",
+   15
+  ],
+  [
+   "Drew Sample",
+   "TE",
+   16
+  ],
+  [
+   "Zach Ertz",
+   "TE",
+   11
+  ],
+  [
+   "Darren Fells",
+   "TE",
+   16
+  ],
+  [
+   "Chris Herndon IV",
+   "TE",
+   16
+  ],
+  [
+   "Jordan Reed",
+   "TE",
+   10
+  ],
+  [
+   "Richard Rodgers",
+   "TE",
+   14
+  ],
+  [
+   "Cameron Brate",
+   "TE",
+   16
+  ],
+  [
+   "Dawson Knox",
+   "TE",
+   12
+  ],
+  [
+   "Jacob Hollister",
+   "TE",
+   16
+  ],
+  [
+   "Kyle Rudolph",
+   "TE",
+   12
+  ],
+  [
+   "Jack Doyle",
+   "TE",
+   14
+  ],
+  [
+   "Cole Kmet",
+   "TE",
+   16
+  ],
+  [
+   "Harrison Bryant",
+   "TE",
+   15
+  ],
+  [
+   "Will Dissly",
+   "TE",
+   16
+  ],
+  [
+   "Durham Smythe",
+   "TE",
+   15
+  ],
+  [
+   "James O'Shaughnessy",
+   "TE",
+   15
+  ],
+  [
+   "Greg Olsen",
+   "TE",
+   11
+  ],
+  [
+   "David Njoku",
+   "TE",
+   13
+  ],
+  [
+   "Ross Dwelley",
+   "TE",
+   16
+  ],
+  [
+   "Adam Shaheen",
+   "TE",
+   16
+  ],
+  [
+   "Tyler Conklin",
+   "TE",
+   16
+  ],
+  [
+   "Donald Parham Jr.",
+   "TE",
+   13
+  ],
+  [
+   "Pharaoh Brown",
+   "TE",
+   13
+  ],
+  [
+   "Tyler Kroft",
+   "TE",
+   10
+  ],
+  [
+   "Ian Thomas",
+   "TE",
+   16
+  ],
+  [
+   "Jesse James",
+   "TE",
+   16
+  ],
+  [
+   "Marcedes Lewis",
+   "TE",
+   15
+  ],
+  [
+   "Adam Trautman",
+   "TE",
+   15
+  ],
+  [
+   "O.J. Howard",
+   "TE",
+   4
+  ],
+  [
+   "Nick Boyle",
+   "TE",
+   9
+  ],
+  [
+   "Foster Moreau",
+   "TE",
+   16
+  ],
+  [
+   "Jason Witten",
+   "TE",
+   16
+  ],
+  [
+   "Ryan Izzo",
+   "TE",
+   12
+  ],
+  [
+   "Nick Vannett",
+   "TE",
+   15
+  ],
+  [
+   "Jace Sternberger",
+   "TE",
+   12
+  ],
+  [
+   "Kaden Smith",
+   "TE",
+   15
+  ],
+  [
+   "Albert Okwuegbunam Jr.",
+   "TE",
+   4
+  ]
+ ],
+ "games2021": [
+  [
+   "Josh Allen",
+   "QB",
+   17
+  ],
+  [
+   "Justin Herbert",
+   "QB",
+   17
+  ],
+  [
+   "Tom Brady",
+   "QB",
+   17
+  ],
+  [
+   "Patrick Mahomes II",
+   "QB",
+   17
+  ],
+  [
+   "Matthew Stafford",
+   "QB",
+   17
+  ],
+  [
+   "Aaron Rodgers",
+   "QB",
+   16
+  ],
+  [
+   "Dak Prescott",
+   "QB",
+   16
+  ],
+  [
+   "Joe Burrow",
+   "QB",
+   16
+  ],
+  [
+   "Jalen Hurts",
+   "QB",
+   15
+  ],
+  [
+   "Kyler Murray",
+   "QB",
+   14
+  ],
+  [
+   "Kirk Cousins",
+   "QB",
+   16
+  ],
+  [
+   "Ryan Tannehill",
+   "QB",
+   17
+  ],
+  [
+   "Derek Carr",
+   "QB",
+   17
+  ],
+  [
+   "Carson Wentz",
+   "QB",
+   17
+  ],
+  [
+   "Lamar Jackson",
+   "QB",
+   12
+  ],
+  [
+   "Russell Wilson",
+   "QB",
+   14
+  ],
+  [
+   "Jimmy Garoppolo",
+   "QB",
+   15
+  ],
+  [
+   "Mac Jones",
+   "QB",
+   17
+  ],
+  [
+   "Taylor Heinicke",
+   "QB",
+   16
+  ],
+  [
+   "Matt Ryan",
+   "QB",
+   17
+  ],
+  [
+   "Ben Roethlisberger",
+   "QB",
+   16
+  ],
+  [
+   "Trevor Lawrence",
+   "QB",
+   17
+  ],
+  [
+   "Teddy Bridgewater",
+   "QB",
+   14
+  ],
+  [
+   "Jared Goff",
+   "QB",
+   14
+  ],
+  [
+   "Baker Mayfield",
+   "QB",
+   14
+  ],
+  [
+   "Tua Tagovailoa",
+   "QB",
+   13
+  ],
+  [
+   "Daniel Jones",
+   "QB",
+   11
+  ],
+  [
+   "Sam Darnold",
+   "QB",
+   12
+  ],
+  [
+   "Davis Mills",
+   "QB",
+   13
+  ],
+  [
+   "Zach Wilson",
+   "QB",
+   13
+  ],
+  [
+   "Justin Fields",
+   "QB",
+   12
+  ],
+  [
+   "Jameis Winston",
+   "QB",
+   7
+  ],
+  [
+   "Trevor Siemian",
+   "QB",
+   6
+  ],
+  [
+   "Andy Dalton",
+   "QB",
+   8
+  ],
+  [
+   "Cam Newton",
+   "QB",
+   8
+  ],
+  [
+   "Tyrod Taylor",
+   "QB",
+   6
+  ],
+  [
+   "Tyler Huntley",
+   "QB",
+   7
+  ],
+  [
+   "Jacoby Brissett",
+   "QB",
+   11
+  ],
+  [
+   "Trey Lance",
+   "QB",
+   6
+  ],
+  [
+   "Geno Smith",
+   "QB",
+   4
+  ],
+  [
+   "Drew Lock",
+   "QB",
+   6
+  ],
+  [
+   "Mike White",
+   "QB",
+   4
+  ],
+  [
+   "Josh Johnson",
+   "QB",
+   4
+  ],
+  [
+   "Colt McCoy",
+   "QB",
+   8
+  ],
+  [
+   "Mike Glennon",
+   "QB",
+   6
+  ],
+  [
+   "Gardner Minshew II",
+   "QB",
+   3
+  ],
+  [
+   "Tim Boyle",
+   "QB",
+   4
+  ],
+  [
+   "Case Keenum",
+   "QB",
+   5
+  ],
+  [
+   "Cooper Rush",
+   "QB",
+   4
+  ],
+  [
+   "Jordan Love",
+   "QB",
+   6
+  ],
+  [
+   "Joe Flacco",
+   "QB",
+   2
+  ],
+  [
+   "Mason Rudolph",
+   "QB",
+   2
+  ],
+  [
+   "P.J. Walker",
+   "QB",
+   5
+  ],
+  [
+   "Nick Foles",
+   "QB",
+   1
+  ],
+  [
+   "Marcus Mariota",
+   "QB",
+   7
+  ],
+  [
+   "Jake Fromm",
+   "QB",
+   3
+  ],
+  [
+   "Brandon Allen",
+   "QB",
+   5
+  ],
+  [
+   "Sean Mannion",
+   "QB",
+   1
+  ],
+  [
+   "Brian Hoyer",
+   "QB",
+   5
+  ],
+  [
+   "Nick Mullens",
+   "QB",
+   1
+  ],
+  [
+   "Mitchell Trubisky",
+   "QB",
+   5
+  ],
+  [
+   "Kyle Allen",
+   "QB",
+   2
+  ],
+  [
+   "Garrett Gilbert",
+   "QB",
+   1
+  ],
+  [
+   "Ian Book",
+   "QB",
+   1
+  ],
+  [
+   "Chad Henne",
+   "QB",
+   4
+  ],
+  [
+   "Chris Streveler",
+   "QB",
+   2
+  ],
+  [
+   "Blaine Gabbert",
+   "QB",
+   6
+  ],
+  [
+   "C.J. Beathard",
+   "QB",
+   2
+  ],
+  [
+   "Sam Ehlinger",
+   "QB",
+   3
+  ],
+  [
+   "Ryan Fitzpatrick",
+   "QB",
+   1
+  ],
+  [
+   "David Blough",
+   "QB",
+   1
+  ],
+  [
+   "Nathan Peterman",
+   "QB",
+   1
+  ],
+  [
+   "Jonathan Taylor",
+   "RB",
+   17
+  ],
+  [
+   "Austin Ekeler",
+   "RB",
+   16
+  ],
+  [
+   "Najee Harris",
+   "RB",
+   17
+  ],
+  [
+   "Joe Mixon",
+   "RB",
+   16
+  ],
+  [
+   "James Conner",
+   "RB",
+   15
+  ],
+  [
+   "Leonard Fournette",
+   "RB",
+   14
+  ],
+  [
+   "Ezekiel Elliott",
+   "RB",
+   17
+  ],
+  [
+   "Alvin Kamara",
+   "RB",
+   13
+  ],
+  [
+   "Cordarrelle Patterson",
+   "RB",
+   16
+  ],
+  [
+   "Antonio Gibson",
+   "RB",
+   16
+  ],
+  [
+   "Aaron Jones Sr.",
+   "RB",
+   15
+  ],
+  [
+   "Josh Jacobs",
+   "RB",
+   15
+  ],
+  [
+   "Nick Chubb",
+   "RB",
+   14
+  ],
+  [
+   "Damien Harris",
+   "RB",
+   15
+  ],
+  [
+   "D'Andre Swift",
+   "RB",
+   13
+  ],
+  [
+   "Dalvin Cook",
+   "RB",
+   13
+  ],
+  [
+   "Javonte Williams",
+   "RB",
+   17
+  ],
+  [
+   "Devin Singletary",
+   "RB",
+   17
+  ],
+  [
+   "Darrel Williams",
+   "RB",
+   17
+  ],
+  [
+   "David Montgomery",
+   "RB",
+   14
+  ],
+  [
+   "Melvin Gordon III",
+   "RB",
+   16
+  ],
+  [
+   "Derrick Henry",
+   "RB",
+   8
+  ],
+  [
+   "AJ Dillon",
+   "RB",
+   17
+  ],
+  [
+   "James Robinson",
+   "RB",
+   14
+  ],
+  [
+   "Myles Gaskin",
+   "RB",
+   17
+  ],
+  [
+   "Elijah Mitchell",
+   "RB",
+   12
+  ],
+  [
+   "Darrell Henderson Jr.",
+   "RB",
+   12
+  ],
+  [
+   "Tony Pollard",
+   "RB",
+   15
+  ],
+  [
+   "Michael Carter",
+   "RB",
+   14
+  ],
+  [
+   "Saquon Barkley",
+   "RB",
+   14
+  ],
+  [
+   "Devonta Freeman",
+   "RB",
+   16
+  ],
+  [
+   "Sony Michel",
+   "RB",
+   17
+  ],
+  [
+   "Devontae Booker",
+   "RB",
+   16
+  ],
+  [
+   "Chase Edmonds",
+   "RB",
+   12
+  ],
+  [
+   "Mike Davis",
+   "RB",
+   17
+  ],
+  [
+   "Chuba Hubbard",
+   "RB",
+   16
+  ],
+  [
+   "J.D. McKissic",
+   "RB",
+   11
+  ],
+  [
+   "Christian McCaffrey",
+   "RB",
+   7
+  ],
+  [
+   "Alexander Mattison",
+   "RB",
+   16
+  ],
+  [
+   "Brandon Bolden",
+   "RB",
+   16
+  ],
+  [
+   "Kenny Gainwell",
+   "RB",
+   16
+  ],
+  [
+   "Rashaad Penny",
+   "RB",
+   10
+  ],
+  [
+   "Jamaal Williams",
+   "RB",
+   13
+  ],
+  [
+   "Clyde Edwards-Helaire",
+   "RB",
+   10
+  ],
+  [
+   "Miles Sanders",
+   "RB",
+   12
+  ],
+  [
+   "Ty Johnson",
+   "RB",
+   15
+  ],
+  [
+   "Rhamondre Stevenson",
+   "RB",
+   12
+  ],
+  [
+   "Nyheim Miller-Hines",
+   "RB",
+   17
+  ],
+  [
+   "Kareem Hunt",
+   "RB",
+   8
+  ],
+  [
+   "Mark Ingram II",
+   "RB",
+   14
+  ],
+  [
+   "Zack Moss",
+   "RB",
+   13
+  ],
+  [
+   "Rex Burkhead",
+   "RB",
+   15
+  ],
+  [
+   "D'Ernest Johnson",
+   "RB",
+   13
+  ],
+  [
+   "Latavius Murray",
+   "RB",
+   14
+  ],
+  [
+   "Kenyan Drake",
+   "RB",
+   12
+  ],
+  [
+   "Boston Scott",
+   "RB",
+   11
+  ],
+  [
+   "D'Onta Foreman",
+   "RB",
+   9
+  ],
+  [
+   "Ameer Abdullah",
+   "RB",
+   17
+  ],
+  [
+   "Justin Jackson",
+   "RB",
+   14
+  ],
+  [
+   "Samaje Perine",
+   "RB",
+   15
+  ],
+  [
+   "David Johnson",
+   "RB",
+   13
+  ],
+  [
+   "Ronald Jones II",
+   "RB",
+   15
+  ],
+  [
+   "Khalil Herbert",
+   "RB",
+   16
+  ],
+  [
+   "Kyle Juszczyk",
+   "RB",
+   15
+  ],
+  [
+   "Jeremy McNichols",
+   "RB",
+   13
+  ],
+  [
+   "Dontrell Hilliard",
+   "RB",
+   8
+  ],
+  [
+   "Alex Collins",
+   "RB",
+   11
+  ],
+  [
+   "Jordan Howard",
+   "RB",
+   7
+  ],
+  [
+   "Travis Homer",
+   "RB",
+   14
+  ],
+  [
+   "Damien Williams",
+   "RB",
+   12
+  ],
+  [
+   "DeeJay Dallas",
+   "RB",
+   17
+  ],
+  [
+   "Giovani Bernard",
+   "RB",
+   10
+  ],
+  [
+   "Duke Johnson Jr.",
+   "RB",
+   5
+  ],
+  [
+   "Derrick Gore",
+   "RB",
+   8
+  ],
+  [
+   "Jaret Patterson",
+   "RB",
+   15
+  ],
+  [
+   "Tevin Coleman",
+   "RB",
+   11
+  ],
+  [
+   "Jeff Wilson Jr.",
+   "RB",
+   9
+  ],
+  [
+   "Demetric Felton Jr.",
+   "RB",
+   15
+  ],
+  [
+   "Dare Ogunbowale",
+   "RB",
+   13
+  ],
+  [
+   "Peyton Barber",
+   "RB",
+   10
+  ],
+  [
+   "Chris Evans",
+   "RB",
+   9
+  ],
+  [
+   "JaMycal Hasty",
+   "RB",
+   11
+  ],
+  [
+   "Chris Carson",
+   "RB",
+   4
+  ],
+  [
+   "Carlos Hyde",
+   "RB",
+   12
+  ],
+  [
+   "Phillip Lindsay",
+   "RB",
+   14
+  ],
+  [
+   "Matt Breida",
+   "RB",
+   7
+  ],
+  [
+   "Ty'Son Williams",
+   "RB",
+   8
+  ],
+  [
+   "Salvon Ahmed",
+   "RB",
+   11
+  ],
+  [
+   "Le'Veon Bell",
+   "RB",
+   8
+  ],
+  [
+   "Ke'Shawn Vaughn",
+   "RB",
+   6
+  ],
+  [
+   "Jerick McKinnon",
+   "RB",
+   9
+  ],
+  [
+   "Elijhaa Penny",
+   "RB",
+   13
+  ],
+  [
+   "Cooper Kupp",
+   "WR",
+   17
+  ],
+  [
+   "Davante Adams",
+   "WR",
+   16
+  ],
+  [
+   "Deebo Samuel Sr.",
+   "WR",
+   16
+  ],
+  [
+   "Justin Jefferson",
+   "WR",
+   17
+  ],
+  [
+   "Ja'Marr Chase",
+   "WR",
+   17
+  ],
+  [
+   "Tyreek Hill",
+   "WR",
+   17
+  ],
+  [
+   "Stefon Diggs",
+   "WR",
+   17
+  ],
+  [
+   "Diontae Johnson",
+   "WR",
+   16
+  ],
+  [
+   "Mike Evans",
+   "WR",
+   16
+  ],
+  [
+   "Hunter Renfrow",
+   "WR",
+   17
+  ],
+  [
+   "Keenan Allen",
+   "WR",
+   16
+  ],
+  [
+   "Mike Williams",
+   "WR",
+   16
+  ],
+  [
+   "Jaylen Waddle",
+   "WR",
+   16
+  ],
+  [
+   "DK Metcalf",
+   "WR",
+   17
+  ],
+  [
+   "Chris Godwin Jr.",
+   "WR",
+   14
+  ],
+  [
+   "Tyler Lockett",
+   "WR",
+   16
+  ],
+  [
+   "Michael Pittman Jr.",
+   "WR",
+   17
+  ],
+  [
+   "DJ Moore",
+   "WR",
+   17
+  ],
+  [
+   "CeeDee Lamb",
+   "WR",
+   16
+  ],
+  [
+   "Brandin Cooks",
+   "WR",
+   16
+  ],
+  [
+   "Amon-Ra St. Brown",
+   "WR",
+   16
+  ],
+  [
+   "Hollywood Brown",
+   "WR",
+   16
+  ],
+  [
+   "Darnell Mooney",
+   "WR",
+   17
+  ],
+  [
+   "Tee Higgins",
+   "WR",
+   14
+  ],
+  [
+   "Terry McLaurin",
+   "WR",
+   17
+  ],
+  [
+   "Christian Kirk",
+   "WR",
+   17
+  ],
+  [
+   "Amari Cooper",
+   "WR",
+   15
+  ],
+  [
+   "Adam Thielen",
+   "WR",
+   13
+  ],
+  [
+   "Jakobi Meyers",
+   "WR",
+   16
+  ],
+  [
+   "DeVonta Smith",
+   "WR",
+   17
+  ],
+  [
+   "Tyler Boyd",
+   "WR",
+   16
+  ],
+  [
+   "A.J. Brown",
+   "WR",
+   13
+  ],
+  [
+   "Kendrick Bourne",
+   "WR",
+   17
+  ],
+  [
+   "Marvin Jones Jr.",
+   "WR",
+   17
+  ],
+  [
+   "Brandon Aiyuk",
+   "WR",
+   17
+  ],
+  [
+   "Van Jefferson",
+   "WR",
+   17
+  ],
+  [
+   "Chase Claypool",
+   "WR",
+   15
+  ],
+  [
+   "Russell Gage Jr.",
+   "WR",
+   13
+  ],
+  [
+   "Cole Beasley",
+   "WR",
+   16
+  ],
+  [
+   "K.J. Osborn",
+   "WR",
+   17
+  ],
+  [
+   "A.J. Green",
+   "WR",
+   16
+  ],
+  [
+   "Tim Patrick",
+   "WR",
+   16
+  ],
+  [
+   "Marquez Callaway",
+   "WR",
+   17
+  ],
+  [
+   "Courtland Sutton",
+   "WR",
+   17
+  ],
+  [
+   "Cedrick Wilson Jr.",
+   "WR",
+   14
+  ],
+  [
+   "DeAndre Hopkins",
+   "WR",
+   10
+  ],
+  [
+   "Allen Lazard",
+   "WR",
+   14
+  ],
+  [
+   "Mecole Hardman Jr.",
+   "WR",
+   17
+  ],
+  [
+   "Robbie Chosen",
+   "WR",
+   17
+  ],
+  [
+   "Elijah Moore",
+   "WR",
+   11
+  ],
+  [
+   "Robert Woods",
+   "WR",
+   9
+  ],
+  [
+   "Jarvis Landry",
+   "WR",
+   12
+  ],
+  [
+   "Kalif Raymond",
+   "WR",
+   16
+  ],
+  [
+   "Emmanuel Sanders",
+   "WR",
+   14
+  ],
+  [
+   "Odell Beckham Jr.",
+   "WR",
+   14
+  ],
+  [
+   "Laviska Shenault Jr.",
+   "WR",
+   16
+  ],
+  [
+   "Byron Pringle",
+   "WR",
+   16
+  ],
+  [
+   "Gabe Davis",
+   "WR",
+   15
+  ],
+  [
+   "Antonio Brown",
+   "WR",
+   7
+  ],
+  [
+   "Braxton Berrios",
+   "WR",
+   16
+  ],
+  [
+   "Quez Watkins",
+   "WR",
+   17
+  ],
+  [
+   "Deonte Harty",
+   "WR",
+   13
+  ],
+  [
+   "Jamison Crowder",
+   "WR",
+   12
+  ],
+  [
+   "Donovan Peoples-Jones",
+   "WR",
+   14
+  ],
+  [
+   "Bryan Edwards",
+   "WR",
+   16
+  ],
+  [
+   "Nick Westbrook-Ikhine",
+   "WR",
+   15
+  ],
+  [
+   "Zay Jones",
+   "WR",
+   15
+  ],
+  [
+   "Corey Davis",
+   "WR",
+   9
+  ],
+  [
+   "DeVante Parker",
+   "WR",
+   10
+  ],
+  [
+   "Rashod Bateman",
+   "WR",
+   12
+  ],
+  [
+   "Nelson Agholor",
+   "WR",
+   15
+  ],
+  [
+   "Jalen Guyton",
+   "WR",
+   16
+  ],
+  [
+   "Zach Pascal",
+   "WR",
+   16
+  ],
+  [
+   "Randall Cobb",
+   "WR",
+   11
+  ],
+  [
+   "Joshua Palmer",
+   "WR",
+   15
+  ],
+  [
+   "Michael Gallup",
+   "WR",
+   9
+  ],
+  [
+   "Olamide Zaccheaus",
+   "WR",
+   15
+  ],
+  [
+   "Kenny Golladay",
+   "WR",
+   14
+  ],
+  [
+   "Tre'Quan Smith",
+   "WR",
+   10
+  ],
+  [
+   "Allen Robinson II",
+   "WR",
+   12
+  ],
+  [
+   "Marquez Valdes-Scantling",
+   "WR",
+   11
+  ],
+  [
+   "DeAndre Carter",
+   "WR",
+   17
+  ],
+  [
+   "Freddie Swain",
+   "WR",
+   17
+  ],
+  [
+   "Jerry Jeudy",
+   "WR",
+   10
+  ],
+  [
+   "Henry Ruggs III",
+   "WR",
+   7
+  ],
+  [
+   "Nico Collins",
+   "WR",
+   14
+  ],
+  [
+   "Devin Duvernay",
+   "WR",
+   16
+  ],
+  [
+   "Laquon Treadwell",
+   "WR",
+   12
+  ],
+  [
+   "Kadarius Toney",
+   "WR",
+   9
+  ],
+  [
+   "Jauan Jennings",
+   "WR",
+   13
+  ],
+  [
+   "Mark Andrews",
+   "TE",
+   17
+  ],
+  [
+   "Travis Kelce",
+   "TE",
+   16
+  ],
+  [
+   "Dalton Schultz",
+   "TE",
+   17
+  ],
+  [
+   "George Kittle",
+   "TE",
+   14
+  ],
+  [
+   "Zach Ertz",
+   "TE",
+   17
+  ],
+  [
+   "Kyle Pitts Sr.",
+   "TE",
+   17
+  ],
+  [
+   "Rob Gronkowski",
+   "TE",
+   12
+  ],
+  [
+   "Dallas Goedert",
+   "TE",
+   15
+  ],
+  [
+   "Mike Gesicki",
+   "TE",
+   17
+  ],
+  [
+   "Hunter Henry",
+   "TE",
+   16
+  ],
+  [
+   "Dawson Knox",
+   "TE",
+   15
+  ],
+  [
+   "Noah Fant",
+   "TE",
+   16
+  ],
+  [
+   "Pat Freiermuth",
+   "TE",
+   16
+  ],
+  [
+   "Tyler Higbee",
+   "TE",
+   15
+  ],
+  [
+   "T.J. Hockenson",
+   "TE",
+   12
+  ],
+  [
+   "Tyler Conklin",
+   "TE",
+   17
+  ],
+  [
+   "Darren Waller",
+   "TE",
+   11
+  ],
+  [
+   "Jared Cook",
+   "TE",
+   16
+  ],
+  [
+   "C.J. Uzomah",
+   "TE",
+   16
+  ],
+  [
+   "Taysom Hill",
+   "TE",
+   12
+  ],
+  [
+   "Cole Kmet",
+   "TE",
+   17
+  ],
+  [
+   "Gerald Everett",
+   "TE",
+   15
+  ],
+  [
+   "David Njoku",
+   "TE",
+   15
+  ],
+  [
+   "Evan Engram",
+   "TE",
+   15
+  ],
+  [
+   "Austin Hooper",
+   "TE",
+   15
+  ],
+  [
+   "Foster Moreau",
+   "TE",
+   15
+  ],
+  [
+   "Mo Alie-Cox",
+   "TE",
+   17
+  ],
+  [
+   "Jack Doyle",
+   "TE",
+   15
+  ],
+  [
+   "Anthony Firkser",
+   "TE",
+   15
+  ],
+  [
+   "Cameron Brate",
+   "TE",
+   16
+  ],
+  [
+   "Albert Okwuegbunam Jr.",
+   "TE",
+   14
+  ],
+  [
+   "Dan Arnold",
+   "TE",
+   11
+  ],
+  [
+   "Geoff Swaim",
+   "TE",
+   16
+  ],
+  [
+   "Durham Smythe",
+   "TE",
+   16
+  ],
+  [
+   "Ricky Seals-Jones",
+   "TE",
+   11
+  ],
+  [
+   "Jonnu Smith",
+   "TE",
+   16
+  ],
+  [
+   "Ryan Griffin",
+   "TE",
+   14
+  ],
+  [
+   "Hayden Hurst",
+   "TE",
+   12
+  ],
+  [
+   "Adam Trautman",
+   "TE",
+   11
+  ],
+  [
+   "Harrison Bryant",
+   "TE",
+   15
+  ],
+  [
+   "Josiah Deguara",
+   "TE",
+   14
+  ],
+  [
+   "Kyle Rudolph",
+   "TE",
+   15
+  ],
+  [
+   "Donald Parham Jr.",
+   "TE",
+   14
+  ],
+  [
+   "Brevin Jordan",
+   "TE",
+   8
+  ],
+  [
+   "Logan Thomas",
+   "TE",
+   5
+  ],
+  [
+   "Tommy Tremble",
+   "TE",
+   15
+  ],
+  [
+   "Juwan Johnson",
+   "TE",
+   13
+  ],
+  [
+   "John Bates",
+   "TE",
+   13
+  ],
+  [
+   "Jimmy Graham",
+   "TE",
+   11
+  ],
+  [
+   "James O'Shaughnessy",
+   "TE",
+   7
+  ],
+  [
+   "Robert Tonyan",
+   "TE",
+   8
+  ],
+  [
+   "Will Dissly",
+   "TE",
+   13
+  ],
+  [
+   "MyCole Pruitt",
+   "TE",
+   13
+  ],
+  [
+   "Marcedes Lewis",
+   "TE",
+   13
+  ],
+  [
+   "Jordan Akins",
+   "TE",
+   12
+  ],
+  [
+   "Maxx Williams",
+   "TE",
+   5
+  ],
+  [
+   "Tyler Kroft",
+   "TE",
+   9
+  ],
+  [
+   "Stephen Anderson",
+   "TE",
+   14
+  ],
+  [
+   "Pharaoh Brown",
+   "TE",
+   13
+  ],
+  [
+   "Ian Thomas",
+   "TE",
+   14
+  ],
+  [
+   "Zach Gentry",
+   "TE",
+   10
+  ],
+  [
+   "Brock Wright",
+   "TE",
+   8
+  ],
+  [
+   "O.J. Howard",
+   "TE",
+   11
+  ],
+  [
+   "Blake Jarwin",
+   "TE",
+   8
+  ],
+  [
+   "Eric Ebron",
+   "TE",
+   8
+  ],
+  [
+   "Nick Vannett",
+   "TE",
+   7
+  ],
+  [
+   "Adam Shaheen",
+   "TE",
+   9
+  ],
+  [
+   "Jody Fortson Jr.",
+   "TE",
+   4
+  ]
+ ],
+ "notes": "Collected 2026-08-16 via WebFetch, numbers transcribed as displayed (nothing imputed). adp2022: FantasyFootballCalculator PPR 12-team 2022 archive (mock drafts Sep 3-4 2022, 1,633 drafts); 'adp' = the Overall avg-pick column. The archived table only has 157 rows total incl. 6 DEF + 5 PK, so after dropping K/DST there are 146 skill players (not 200); deepest ADP = 153.8. FFC name quirks kept verbatim (e.g. 'Aaron Jones Sr.', 'Hollywood Brown', 'Kyle Pitts Sr.', 'Brian Robinson'). proj2022: FFToday 2022 preseason projections (playerproj.php PosID 10/20/30/40, default league). Page legend says 'FFToday Half-PPR Scoring'; verified by recomputation (Jonathan Taylor 1568+321 yds, 16 TD, 39 rec -> 284.9 std + 0.5*39 = 304.4 = listed FPts; McCaffrey matches too). So PPR proj = listed FPts + 0.5*Receptions for RB/WR/TE (NOT +1.0*Rec, since FPts already includes 0.5/rec); QB proj = listed FPts unchanged (no receptions). 32 QB, 94 RB, 100 WR, 32 TE. FFToday name forms kept ('Aaron Jones', 'Travis Etienne', 'Robbie Chosen' = Robby Anderson, 'Melvin Gordon' listed on DEN preseason). actual2022: FantasyPros /nfl/stats/{qb,rb,wr,te}.php?year=2022&scoring=PPR, FPTS and G columns quoted verbatim (38 QB, 75 RB, 92 WR, 42 TE). FantasyPros QB scoring = 4 pts/pass TD. CAVEAT: FantasyPros lists G=17 for Josh Allen and Joe Burrow (verified by verbatim row transcription; their FPTS/G column = FPTS/17), although BUF and CIN actually played only 16 games in 2022 (Week 17 BUF@CIN cancelled after Hamlin injury) - treat those two G values as 16 if physical games matter. Taysom Hill appears as TE (FantasyPros classification). games2020/games2021: same FantasyPros stats pages for year=2020 (16-game season) and 2021 (17-game season), G column, top-of-table order; 2020: 69 QB / 87 RB / 89 WR / 67 TE; 2021: 72 QB / 92 RB / 90 WR / 68 TE. Names are NOT normalized across sources - joiners must handle suffix/alias variants (e.g. FFC 'Nyheim Hines' vs FantasyPros 'Nyheim Miller-Hines', 'Patrick Mahomes' vs 'Patrick Mahomes II', 'DJ Moore' vs 'D.J. Moore', 'Robbie Chosen'/'Robbie Anderson', 'Chris Godwin' vs 'Chris Godwin Jr.'). K/DST excluded everywhere."
+}

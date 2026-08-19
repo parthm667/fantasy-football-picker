@@ -1,0 +1,82 @@
+{
+  "asOf": "2026-08-16",
+  "corrections": [
+    {
+      "name": "Jordyn Tyson",
+      "pos": "WR",
+      "team": "NO",
+      "issue": "hamstring injury Aug 13 joint practice vs JAX; will miss time, no timetable, could linger into Week 1 per HC Kellen Moore (No. 8 overall pick, prior hamstring history)",
+      "action": "downgrade",
+      "projMult": 0.85,
+      "confidence": "confirmed"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "pos": "RB",
+      "team": "ARI",
+      "issue": "ankle injury in Aug 13 preseason game vs LV; soreness worsened Aug 14, ruled out at least a week Aug 15 with no long-term prognosis, Week 1 status to be reassessed (LaFleur, team site)",
+      "action": "downgrade",
+      "projMult": 0.93,
+      "confidence": "confirmed"
+    },
+    {
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "team": "CAR",
+      "issue": "hamstring; HC Dave Canales called him week-to-week on Aug 13, Week 1 not guaranteed",
+      "action": "downgrade",
+      "projMult": 0.9,
+      "confidence": "confirmed"
+    },
+    {
+      "name": "Jonathon Brooks",
+      "pos": "RB",
+      "team": "CAR",
+      "issue": "beneficiary of Hubbard hamstring (Aug 13): running with starters, expected larger early-season role, ADP climbing (~RB30)",
+      "action": "upgrade",
+      "projMult": 1.1,
+      "confidence": "reported"
+    },
+    {
+      "name": "Tucker Kraft",
+      "pos": "TE",
+      "team": "GB",
+      "issue": "Aug 16 (packers.com): says team will gradually increase his snap count week by week to open season in ACL return; early-season snap cap adds fantasy risk despite Week 1 availability",
+      "action": "downgrade",
+      "projMult": 0.9,
+      "confidence": "confirmed"
+    },
+    {
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "team": "PIT",
+      "issue": "undisclosed injury, sat preseason opener Aug 14; McCarthy said Aug 16 he is hard-pressed to practice this week, doubtful Aug 21 game; beat writers call it more serious than initially thought, return expected late Aug",
+      "action": "downgrade",
+      "projMult": 0.95,
+      "confidence": "reported"
+    },
+    {
+      "name": "Michael Pittman Jr.",
+      "pos": "WR",
+      "team": "PIT",
+      "issue": "leg injury (~Aug 9) escalated in window: out of practice all this week per McCarthy Aug 16, doubtful Aug 21 game, return expected late Aug; Week 1 chemistry concern",
+      "action": "downgrade",
+      "projMult": 0.95,
+      "confidence": "reported"
+    }
+  ],
+  "clean": [
+    "DJ Moore (WR BUF) - rolled ankle in Aug 15 preseason game vs CAR, X-rays/eval negative, 'good to go' per Joe Brady Aug 15-16",
+    "Kyle Monangai (RB CHI) - knee scare at practice Aug 16; MRI showed no structural damage, avoided serious injury",
+    "Emeka Egbuka (WR TB) - toe sprain was Aug 12 (pre-window); in-window reports say minor/stable, should be fine for Week 1",
+    "Puka Nacua (WR LAR) - minor groin soreness (Aug 11-12, pre-window), positive update, no in-window setback",
+    "Luther Burden III (WR CHI) - groin (Aug 10, pre-window); resumed light practice work Aug 15, still on Week 1 track",
+    "Isiah Pacheco (RB DET) - MCL sprain was Aug 10 (pre-window); in-window reports reaffirm expected ready for Week 1",
+    "Malik Nabers (WR NYG) - no in-window setback; remains on track for Week 1",
+    "Patrick Mahomes (QB KC) - no in-window setback in 2025 knee rehab; still targeting Week 1",
+    "George Kittle (TE SF) - still on PUP but nearing practice return, confident for Week 1; no in-window negative",
+    "DeVonta Smith (WR PHI) - hamstring absence pre-dates window (out since ~Aug 4); no in-window change, returned to practice Aug 17",
+    "Bijan Robinson (RB ATL) / Jahmyr Gibbs (RB DET) - hold-ins resolved with extensions BEFORE window (Bijan ~Aug 10, Gibbs Aug 6); both full go"
+  ],
+  "notes": "Sources: azcardinals.com (Love, Aug 15), NBC Sports PFT (Love Aug 14, Tyson Aug 14, Egbuka, Monangai MRI, Canales/Hubbard Aug 13, DJ Moore good-to-go Aug 15), fantasylife.com Aug 13 (Hubbard/Brooks/Tyson/DeVonta Smith), packers.com Aug 16 (Kraft snap count), DraftSharks + Yardbarker + SI Aug 16 (Metcalf/Pittman), FantasyPros Aug 16 roundup, Yahoo camp tracker (updated Aug 14). Out-of-window items NOT included per rules: Breece Hall groin at Aug 17 practice (monitor), Aug 17 report putting Jeremiyah Love's Week 1 in doubt (supports downgrade direction), Jamal Adams (MIN S) carted off Aug 16 and to IR (IDP only). Pre-window situations unchanged in window and therefore not corrected: Josh Jacobs GB (groin since Aug 5 + NFL conduct review reported Aug 11 - suspension risk already in Aug 13 baseline; LaFleur said Aug 14 he may resume practice late this week), Ricky Pearsall season-ending PCL surgery (announced pre-Aug 13), Trey Benson knee/James Conner limited (ongoing, ARI), Alec Pierce ankle rehab (ongoing, IND), Kenyon Sadiq hernia setback (Aug 12, NYJ). Aug 14 NFL suspensions (James Pearce Jr. 8 games, Nazeeh Johnson, Dorance Armstrong, Phidarian Mathis) are all defensive players - no fantasy top-150 impact. No fantasy-relevant trades, releases, or new holdouts found Aug 13-16."
+}

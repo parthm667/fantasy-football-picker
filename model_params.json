@@ -1,0 +1,60 @@
+{
+ "QB": {
+  "pBust": 0.111,
+  "pBustEarly": 0.111,
+  "pBustLate": 0.111,
+  "sigmaCore": 0.333,
+  "rhoAdp": 0.127,
+  "rhoProj": -0.037,
+  "bestW": 0.0,
+  "n": 27
+ },
+ "RB": {
+  "pBust": 0.27,
+  "pBustEarly": 0.056,
+  "pBustLate": 0.356,
+  "sigmaCore": 0.295,
+  "rhoAdp": 0.647,
+  "rhoProj": 0.714,
+  "bestW": 0.7,
+  "n": 63
+ },
+ "WR": {
+  "pBust": 0.227,
+  "pBustEarly": 0.167,
+  "pBustLate": 0.246,
+  "sigmaCore": 0.334,
+  "rhoAdp": 0.518,
+  "rhoProj": 0.326,
+  "bestW": 0.1,
+  "n": 75
+ },
+ "TE": {
+  "pBust": 0.038,
+  "pBustEarly": 0.0,
+  "pBustLate": 0.125,
+  "sigmaCore": 0.297,
+  "rhoAdp": 0.366,
+  "rhoProj": 0.398,
+  "bestW": 0.9,
+  "n": 26
+ },
+ "_global": {
+  "bestW": 0.55,
+  "rhoAdp": 0.539,
+  "rhoProj": 0.417,
+  "rhoBlend": 0.44
+ },
+ "K": {
+  "pBust": 0.05,
+  "pBustEarly": 0.05,
+  "pBustLate": 0.05,
+  "sigmaCore": 0.12
+ },
+ "DST": {
+  "pBust": 0.08,
+  "pBustEarly": 0.08,
+  "pBustLate": 0.08,
+  "sigmaCore": 0.18
+ }
+}

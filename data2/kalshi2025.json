@@ -1,0 +1,68 @@
+{
+  "source": "kalshi-candlesticks-aug2025",
+  "asOfWindow": "2025-08-12..2025-09-03",
+  "winTotals": {
+    "ARI": {"line": 8.5, "overProb": 0.545, "kalshiTicker": "KXNFLWINS-ARI-25B-T8", "yesBid": 0.53, "yesAsk": 0.56, "asOfTs": 1756872000},
+    "ATL": {"line": 7.5, "overProb": 0.59, "kalshiTicker": "KXNFLWINS-ATL-25B-T7", "yesBid": 0.57, "yesAsk": 0.61, "asOfTs": 1756872000},
+    "BAL": {"line": 11.5, "overProb": 0.54, "kalshiTicker": "KXNFLWINS-BAL-25B-T11", "yesBid": 0.52, "yesAsk": 0.56, "asOfTs": 1756872000},
+    "BUF": {"line": 11.5, "overProb": 0.58, "kalshiTicker": "KXNFLWINS-BUF-25B-T11", "yesBid": 0.56, "yesAsk": 0.60, "asOfTs": 1756872000},
+    "CAR": {"line": 6.5, "overProb": 0.54, "kalshiTicker": "KXNFLWINS-CAR-25B-T6", "yesBid": 0.52, "yesAsk": 0.56, "asOfTs": 1756872000},
+    "CHI": {"line": 8.5, "overProb": 0.45, "kalshiTicker": "KXNFLWINS-CHI-25B-T8", "yesBid": 0.43, "yesAsk": 0.47, "asOfTs": 1756872000},
+    "CIN": {"line": 9.5, "overProb": 0.50, "kalshiTicker": "KXNFLWINS-CIN-25B-T9", "yesBid": 0.48, "yesAsk": 0.52, "asOfTs": 1756872000},
+    "CLE": {"line": 4.5, "overProb": 0.555, "kalshiTicker": "KXNFLWINS-CLE-25B-T4", "yesBid": 0.54, "yesAsk": 0.57, "asOfTs": 1756872000},
+    "DAL": {"line": 7.5, "overProb": 0.445, "kalshiTicker": "KXNFLWINS-DAL-25B-T7", "yesBid": 0.43, "yesAsk": 0.46, "asOfTs": 1756872000},
+    "DEN": {"line": 9.5, "overProb": 0.515, "kalshiTicker": "KXNFLWINS-DEN-25B-T9", "yesBid": 0.51, "yesAsk": 0.52, "asOfTs": 1756872000},
+    "DET": {"line": 10.5, "overProb": 0.425, "kalshiTicker": "KXNFLWINS-DET-25B-T10", "yesBid": 0.41, "yesAsk": 0.44, "asOfTs": 1756872000},
+    "GB": {"line": 9.5, "overProb": 0.595, "kalshiTicker": "KXNFLWINS-GB-25B-T9", "yesBid": 0.59, "yesAsk": 0.60, "asOfTs": 1756872000},
+    "HOU": {"line": 9.5, "overProb": 0.47, "kalshiTicker": "KXNFLWINS-HOU-25B-T9", "yesBid": 0.45, "yesAsk": 0.49, "asOfTs": 1756872000},
+    "IND": {"line": 7.5, "overProb": 0.47, "kalshiTicker": "KXNFLWINS-IND-25B-T7", "yesBid": 0.45, "yesAsk": 0.49, "asOfTs": 1756872000},
+    "JAX": {"line": 7.5, "overProb": 0.545, "kalshiTicker": "KXNFLWINS-JAC-25B-T7", "yesBid": 0.54, "yesAsk": 0.55, "asOfTs": 1756872000},
+    "KC": {"line": 11.5, "overProb": 0.465, "kalshiTicker": "KXNFLWINS-KC-25B-T11", "yesBid": 0.45, "yesAsk": 0.48, "asOfTs": 1756872000},
+    "LAC": {"line": 9.5, "overProb": 0.47, "kalshiTicker": "KXNFLWINS-LAC-25B-T9", "yesBid": 0.46, "yesAsk": 0.48, "asOfTs": 1756872000},
+    "LAR": {"line": 9.5, "overProb": 0.485, "kalshiTicker": "KXNFLWINS-LA-25B-T9", "yesBid": 0.47, "yesAsk": 0.50, "asOfTs": 1756872000},
+    "LV": {"line": 6.5, "overProb": 0.57, "kalshiTicker": "KXNFLWINS-LV-25B-T6", "yesBid": 0.54, "yesAsk": 0.60, "asOfTs": 1756872000},
+    "MIA": {"line": 7.5, "overProb": 0.535, "kalshiTicker": "KXNFLWINS-MIA-25B-T7", "yesBid": 0.53, "yesAsk": 0.54, "asOfTs": 1756872000},
+    "MIN": {"line": 8.5, "overProb": 0.56, "kalshiTicker": "KXNFLWINS-MIN-25B-T8", "yesBid": 0.53, "yesAsk": 0.59, "asOfTs": 1756872000},
+    "NE": {"line": 8.5, "overProb": 0.44, "kalshiTicker": "KXNFLWINS-NE-25B-T8", "yesBid": 0.42, "yesAsk": 0.46, "asOfTs": 1756872000},
+    "NO": {"line": 4.5, "overProb": 0.535, "kalshiTicker": "KXNFLWINS-NO-25B-T4", "yesBid": 0.53, "yesAsk": 0.54, "asOfTs": 1756872000},
+    "NYG": {"line": 5.5, "overProb": 0.53, "kalshiTicker": "KXNFLWINS-NYG-25B-T5", "yesBid": 0.51, "yesAsk": 0.55, "asOfTs": 1756872000},
+    "NYJ": {"line": 5.5, "overProb": 0.565, "kalshiTicker": "KXNFLWINS-NYJ-25B-T5", "yesBid": 0.56, "yesAsk": 0.57, "asOfTs": 1756872000},
+    "PHI": {"line": 11.5, "overProb": 0.46, "kalshiTicker": "KXNFLWINS-PHI-25B-T11", "yesBid": 0.43, "yesAsk": 0.49, "asOfTs": 1756872000},
+    "PIT": {"line": 8.5, "overProb": 0.53, "kalshiTicker": "KXNFLWINS-PIT-25B-T8", "yesBid": 0.50, "yesAsk": 0.56, "asOfTs": 1756872000},
+    "SEA": {"line": 8.5, "overProb": 0.455, "kalshiTicker": "KXNFLWINS-SEA-25B-T8", "yesBid": 0.44, "yesAsk": 0.47, "asOfTs": 1756872000},
+    "SF": {"line": 10.5, "overProb": 0.525, "kalshiTicker": "KXNFLWINS-SF-25B-T10", "yesBid": 0.50, "yesAsk": 0.55, "asOfTs": 1756872000},
+    "TB": {"line": 9.5, "overProb": 0.495, "kalshiTicker": "KXNFLWINS-TB-25B-T9", "yesBid": 0.48, "yesAsk": 0.51, "asOfTs": 1756872000},
+    "TEN": {"line": 5.5, "overProb": 0.575, "kalshiTicker": "KXNFLWINS-TEN-25B-T5", "yesBid": 0.57, "yesAsk": 0.58, "asOfTs": 1756872000},
+    "WAS": {"line": 9.5, "overProb": 0.49, "kalshiTicker": "KXNFLWINS-WAS-25B-T9", "yesBid": 0.48, "yesAsk": 0.50, "asOfTs": 1756872000}
+  },
+  "leaders": {
+    "QB": [
+      {"name": "Josh Allen", "prob": 0.205, "kalshiTicker": "KXRANKLISTFFQB-26FEB-JALL", "yesBid": 0.18, "yesAsk": 0.23, "asOfTs": 1756872000},
+      {"name": "Lamar Jackson", "prob": 0.195, "kalshiTicker": "KXRANKLISTFFQB-26FEB-LJAC", "yesBid": 0.17, "yesAsk": 0.22, "asOfTs": 1756872000},
+      {"name": "Jayden Daniels", "prob": 0.175, "kalshiTicker": "KXRANKLISTFFQB-26FEB-JDAN", "yesBid": 0.14, "yesAsk": 0.21, "asOfTs": 1756872000},
+      {"name": "Jalen Hurts", "prob": 0.135, "kalshiTicker": "KXRANKLISTFFQB-26FEB-JHUR", "yesBid": 0.11, "yesAsk": 0.16, "asOfTs": 1756872000},
+      {"name": "Joe Burrow", "prob": 0.05, "kalshiTicker": "KXRANKLISTFFQB-26FEB-JBUR", "yesBid": 0.01, "yesAsk": 0.09, "asOfTs": 1756872000}
+    ],
+    "RB": [
+      {"name": "Saquon Barkley", "prob": 0.185, "kalshiTicker": "KXRANKLISTFFRB-26FEB-SBAR", "yesBid": 0.15, "yesAsk": 0.22, "asOfTs": 1756872000},
+      {"name": "Christian McCaffrey", "prob": 0.175, "kalshiTicker": "KXRANKLISTFFRB-26FEB-CMCC", "yesBid": 0.11, "yesAsk": 0.24, "asOfTs": 1756872000},
+      {"name": "Bijan Robinson", "prob": 0.17, "kalshiTicker": "KXRANKLISTFFRB-26FEB-BROB", "yesBid": 0.13, "yesAsk": 0.21, "asOfTs": 1756872000},
+      {"name": "Jahmyr Gibbs", "prob": 0.165, "kalshiTicker": "KXRANKLISTFFRB-26FEB-JGIB", "yesBid": 0.12, "yesAsk": 0.21, "asOfTs": 1756872000},
+      {"name": "Derrick Henry", "prob": 0.05, "kalshiTicker": "KXRANKLISTFFRB-26FEB-DHEN", "yesBid": 0.01, "yesAsk": 0.09, "asOfTs": 1756872000}
+    ],
+    "WR": [
+      {"name": "Ja'Marr Chase", "prob": 0.20, "kalshiTicker": "KXRANKLISTFFWR-26FEB-JCHA", "yesBid": 0.17, "yesAsk": 0.23, "asOfTs": 1756872000},
+      {"name": "Justin Jefferson", "prob": 0.155, "kalshiTicker": "KXRANKLISTFFWR-26FEB-JJEF", "yesBid": 0.12, "yesAsk": 0.19, "asOfTs": 1756872000},
+      {"name": "CeeDee Lamb", "prob": 0.135, "kalshiTicker": "KXRANKLISTFFWR-26FEB-CLAM", "yesBid": 0.10, "yesAsk": 0.17, "asOfTs": 1756872000},
+      {"name": "Malik Nabers", "prob": 0.12, "kalshiTicker": "KXRANKLISTFFWR-26FEB-MNAB", "yesBid": 0.09, "yesAsk": 0.15, "asOfTs": 1756872000},
+      {"name": "Puka Nacua", "prob": 0.10, "kalshiTicker": "KXRANKLISTFFWR-26FEB-PNUK", "yesBid": 0.08, "yesAsk": 0.12, "asOfTs": 1756872000}
+    ],
+    "TE": [
+      {"name": "Brock Bowers", "prob": 0.285, "kalshiTicker": "KXRANKLISTFFTE-26FEB-BBOW", "yesBid": 0.27, "yesAsk": 0.30, "asOfTs": 1756872000},
+      {"name": "George Kittle", "prob": 0.17, "kalshiTicker": "KXRANKLISTFFTE-26FEB-GKIT", "yesBid": 0.15, "yesAsk": 0.19, "asOfTs": 1756872000},
+      {"name": "Sam LaPorta", "prob": 0.12, "kalshiTicker": "KXRANKLISTFFTE-26FEB-SLAP", "yesBid": 0.10, "yesAsk": 0.14, "asOfTs": 1756872000},
+      {"name": "Travis Kelce", "prob": 0.08, "kalshiTicker": "KXRANKLISTFFTE-26FEB-TKEL", "yesBid": 0.06, "yesAsk": 0.10, "asOfTs": 1756872000}
+    ]
+  },
+  "notes": "REAL Kalshi August-2025 preseason quotes recovered from Kalshi's public historical archive; no 2026 prices, no settled prices, nothing invented. DISCOVERY: Kalshi's 2025-season win totals do NOT live under KXNFLWINS-26 (that naming starts with the 2026 season, events KXNFLWINS-27{TEAM}). In 2025 each team had its own series KXNFLWINS-{TEAM} (Rams=LA, Jaguars=JAC, all others standard) with two events: {SERIES}-25 (listed 2025-05-20, thin books, sparse strike ladder) and {SERIES}-25B (listed ~2025-08-28, liquid, full 'Over n.5 wins' ladder T0..T16). Archived (settled) markets are invisible to the normal /trade-api/v2 events/markets/candlesticks endpoints (404/empty; live retention ~3 months) and must be read via the no-auth historical API: GET https://api.elections.kalshi.com/trade-api/v2/historical/markets/{ticker}/candlesticks?start_ts=1754960000&end_ts=1756950000&period_interval=1440 (exact market tickers enumerated via GET https://api.elections.kalshi.com/v1/events/{eventTicker} and GET .../trade-api/v2/historical/markets?series_ticker=...). QUOTE METHOD: overProb/prob = midpoint of yes_bid.close and yes_ask.close of the last pre-season daily candle, end_period_ts 1756872000 = 2025-09-03T04:00:00Z (season kicked off 2025-09-05 00:20Z), inside the stated window; yesBid/yesAsk included so you can re-derive or apply spread haircuts. WIN TOTALS: all 32 teams from the liquid -25B events (daily candles Aug 29-Sep 3 2025 only, since -25B listed ~Aug 28; final-candle volumes 1-10k contracts, OI up to ~25k, spreads 1-7c). Strike chosen nearest the market's own 50% point; every resulting line matches the FOX Sports consensus board '2025 NFL Win Totals: Over/Unders For All 32 Squads' (updated 2025-08-28) for all 32 teams, incl. MIA at 7.5 (Kalshi's 8.5 strike KXNFLWINS-MIA-25B-T8 simultaneously priced 0.37/0.44 mid 0.405, recorded here for reference). Earlier-August quotes exist only in the thin -25 events (e.g. KXNFLWINS-GB-25-T8 had 21 daily candles 2025-08-12..09-03 but 20-25c spreads, e.g. 0.67/0.91 late Aug); prefer the -25B quotes. FANTASY LEADERS: the 2025-season events are KXRANKLISTFF{QB,RB,WR,TE}-26FEB (not -26); they DID exist in the window (markets listed 2025-08-11, closed 2026-01-05), with ~19-26 players each. Only the top preseason favorites per position were fetched (5 QB, 5 RB, 5 WR, 4 TE, chosen by Aug-2025 consensus); lists are NOT full probability distributions and omit long shots. These books are thinner than win totals (spreads 3-13c; Burrow 0.01/0.09, Henry 0.01/0.09, McCaffrey 0.11/0.24 notably wide - treat those mids with caution). GAP: Trey McBride's TE market (KXRANKLISTFFTE-26FEB-TMCB) was not created until 2025-11-21, so no Aug-2025 Kalshi quote for him exists anywhere. Settlement outcomes were seen during recovery but never used as quotes. Candle window params strictly start_ts=1754960000 end_ts=1756950000 (2025-08-12..2025-09-04T01:33Z); last candle used ends 2025-09-03T04:00Z."
+}
